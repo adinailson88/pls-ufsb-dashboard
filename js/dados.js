@@ -9,7 +9,13 @@ window.PLS_DADOS = (function () {
     return new Promise((resolve, reject) => {
       Papa.parse(final, {
         download: true, header: true, skipEmptyLines: true,
-        complete: (r) => resolve(r.data),
+        complete: (r) => {
+          if (r.errors && r.errors.length) {
+            reject(new Error("CSV inválido ou indisponível em " + url));
+            return;
+          }
+          resolve(r.data);
+        },
         error: reject
       });
     });
@@ -52,7 +58,11 @@ window.PLS_DADOS = (function () {
       carregarCSV(cfg.fonteEixos),
       carregarCSV(cfg.fonteIndicadores)
     ]);
-    return { acoes: normalizar(acoes), eixos, indicadores };
+    const acoesNormalizadas = normalizar(acoes);
+    if (!acoesNormalizadas.length) {
+      throw new Error("A aba ACOES da planilha não tem dados. Importe dados/acoes.csv e publique a aba como CSV.");
+    }
+    return { acoes: acoesNormalizadas, eixos, indicadores };
   }
 
   return { carregarTudo, dataLimite, statusDerivado };

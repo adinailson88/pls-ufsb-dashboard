@@ -6,13 +6,13 @@ window.PLS_CONFIG = {
   revisoesBienais: ["2024-01-01", "2026-01-01"],
 
   // FONTE DE DADOS
-  // Opção A (recomendada em produção): URL do Google Sheets publicado como CSV.
-  //   Arquivo > Compartilhar > Publicar na web > aba ACOES > CSV > copie a URL aqui.
-  // Opção B (atual / fallback): CSV versionado no próprio repositório.
-  fonteAcoes:       "dados/acoes.csv",
-  fonteEixos:       "dados/eixos.csv",
-  fonteIndicadores: "dados/indicadores_anuais.csv",
-  // Para usar o Google Sheets, troque fonteAcoes pela URL .../pub?gid=0&single=true&output=csv
+  // Planilha Google: https://docs.google.com/spreadsheets/d/1zZ8-ACC8T2tLM_S3xXjR-s-0kNVbemDACiOPdAA5xm8/edit
+  // Abas esperadas: ACOES (gid 0), INDICADORES_ANUAIS (gid 101), EIXOS (gid 102).
+  // Para o GitHub Pages conseguir ler, publique cada aba na web como CSV
+  // ou deixe a planilha acessível publicamente para leitura.
+  fonteAcoes:       "https://docs.google.com/spreadsheets/d/1zZ8-ACC8T2tLM_S3xXjR-s-0kNVbemDACiOPdAA5xm8/export?format=csv&gid=0",
+  fonteEixos:       "https://docs.google.com/spreadsheets/d/1zZ8-ACC8T2tLM_S3xXjR-s-0kNVbemDACiOPdAA5xm8/export?format=csv&gid=102",
+  fonteIndicadores: "https://docs.google.com/spreadsheets/d/1zZ8-ACC8T2tLM_S3xXjR-s-0kNVbemDACiOPdAA5xm8/export?format=csv&gid=101",
 
   // Limites de prazo do PLS (em meses, contados da vigência salvo data explícita)
   prazos: {
