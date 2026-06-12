@@ -1,0 +1,12 @@
+id_indicador,eixo,indicador,formula,ano1_meta,ano1_real,ano2_meta,ano2_real,ano3_meta,ano3_real,ano4_meta,ano4_real,ano5_meta,ano5_real,fonte
+RES-IND-01,Resíduos Sólidos,Índice de atividades de discussão coletiva para construção da Política de RS,(nº atividades realizadas / nº planejadas) x 100,100,,,,,,,,,,PDF p.104
+RES-IND-02,Resíduos Sólidos,Número de divulgações sobre a Política de RS,número de divulgações ao ano,4,,10,,12,,12,,15,,PDF p.104
+RES-IND-03,Resíduos Sólidos,Taxa de diagnóstico nas unidades administrativas e acadêmicas,(nº unidades com diagnóstico / nº total) x 100,100,,,,,,,,,,PDF p.105
+RES-IND-04,Resíduos Sólidos,Percentual de construção dos locais de armazenamento temporário e composteiras,(etapas executadas / etapas planejadas) x 100,15,,100,,,,,,,,PDF p.105
+RES-IND-05,Resíduos Sólidos,Taxa de execução de licitações (lixeiras, coletores, contêineres etc.),(etapas realizadas / total de etapas) x 100,10,,100,,,,,,,,PDF p.106
+RES-IND-06,Resíduos Sólidos,Índice de alcance das metas do PGGRS,(nº metas alcançadas / nº total de metas) x 100,5,,25,,50,,80,,100,,PDF p.106
+RES-IND-07,Resíduos Sólidos,Percentual de chamadas públicas de educação ambiental e inovação em RS,(nº chamadas lançadas / nº planejadas) x 100,,,85,,85,,85,,85,,PDF p.106
+RES-IND-08,Resíduos Sólidos,Número de divulgações das metas e operacionalização do plano,número de divulgações ao ano,1,,2,,2,,3,,3,,PDF p.106
+RES-IND-09,Resíduos de Laboratório e Saúde,Taxa de diagnóstico das unidades geradoras e gestoras por classe de resíduo,(nº unidades com diagnóstico / nº total) x 100,30,,100,,,,,,,,PDF p.107
+RES-IND-10,Resíduos de Laboratório e Saúde,Taxa de execução das capacitações para gestão e manejo,(nº capacitações executadas / nº previstas) x 100,,,30,,50,,100,,,,PDF p.107
+RES-IND-11,Resíduos de Laboratório e Saúde,Taxa de execução do Plano de Resíduos de Laboratório e Serviços de Saúde,(etapas executadas / etapas planejadas) x 100,5,,30,,50,,70,,100,,PDF p.107

@@ -1,0 +1,748 @@
+
+########## PAGINA 39 ##########
+Desenvolvimento do Sistema Integrado de Gestão da Sustentabilidade da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: desenvolver o Sistema Integrado de Gestão da Sustentabilidade da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Ação Estratégica ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Criação de comissão responsável pelo desenvolvimento do projeto executivo do SIGS-UFSB ||  ||  || PROTIC, PROPA, ASSUS ||  ||  || Março/2022 ou curtíssimo prazo ||  ||  || Portaria publicada ||  ||  || Portaria publicada no prazo estabelecido ||  || 
+Contratação / designação de servidor(a) de TI dedicado(a) ao desenvolvimento do SIGS-UFSB ||  ||  || Reitoria, PROTIC ||  ||  || Março/2022 ou curtíssimo prazo ||  ||  || Contratação / designação de servidor(a) ||  ||  || Servidor(a) de TI contratado / designado ||  || 
+Realização de diagnóstico detalhado dos procedimentos utilizados para gestão da informação dos temas afetos ao PLS-UFSB ||  ||  || Comissão ||  ||  || Abril/2022 ou curtíssimo prazo ||  ||  || Relatório finalizado ||  ||  || Relatório finalizado no prazo estabelecido ||  || 
+Elaboração de projeto executivo do SIGS-UFSB ||  ||  || Comissão ||  ||  || Junho/2022 ou curtíssimo prazo ||  ||  || Documento final ||  ||  || Documento final apresentado no prazo estabelecido ||  || 
+Definição e contratação de ferramenta(s) de tecnologia da informação que irão compor o SIGS-UFSB ||  ||  || Comissão ||  ||  || Junho/2022 ou curtíssimo prazo ||  ||  || Solução implementada ||  ||  || Solução implementada no prazo estabelecido ||  || 
+ || Implementação e manutenção do Sistema Integrado de Gestão da Sustentabilidade da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: implementar os módulos/ferramentas do Sistema Integrado de Gestão da Sustentabilidade da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Ação Estratégica ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Desenvolvimento e Implementação do sistema de gerenciamento de compras, patrimônio e ||  ||  || PROTIC, PROPA, Coord. de Apoio ||  ||  || Dezembro / 2021 ou ||  ||  || Sistema instalado ||  ||  || Sistema instalado no prazo estabelecido ||  || 
+-----
+
+########## PAGINA 40 ##########
+almoxarifado9 || Administrativo dos Campi || curtíssimo prazo ||  || 
+Desenvolvimento e Implementação do sistema de monitoramento de água e energia || PROTIC, PROPA, Coord. de Apoio Administrativo dos Campi || Março / 2022 ou curtíssimo prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+Desenvolvimento e Implementação do sistema de monitoramento de materiais de consumo utilizados pela empresa contratada para manutenção e limpeza predial || PROTIC, PROPA || Junho / 2022 ou curto prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+Desenvolvimento e Implementação do sistema de monitoramento de ações de ensino, pesquisa e extensão voltadas para Sustentabilidade || PROTIC, ASSUS, PROGEAC, PROPPG, PROEX || Agosto / 2022 ou curto prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+Desenvolvimento e Implementação do sistema de monitoramento de resíduos sólidos (produção própria) || PROTIC, ASSUS || Dezembro / 2022 ou curto prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+Desenvolvimento e Implementação do sistema de monitoramento de resíduos sólidos doados pela Comunidade (ECOPONTOS) || PROTIC, ASSUS || Março / 2023 ou médio prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+Desenvolvimento e Implementação do sistema de monitoramento de transporte e mobilidade urbana da UFSB || PROTIC, ASSUS || Junho / 2023 ou médio prazo || Sistema instalado || Sistema instalado no prazo estabelecido
+-----
+
+########## PAGINA 50 ##########
+Atualização dos processos de compras conforme nova Lei nº 14.133, de 01º de abril de 2021 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Promover a revisão e adequação dos processos, manuais e modelos referenciais de documentos de compras conforme nova legislação, a partir da efetiva utilização da Lei, prevista para 2022. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Capacitar os servidores da área de compras e áreas afins acerca da Lei nº 14.133 de 2021 ||  ||  || DIRAD, PROGEPE ||  ||  || Abril / 2022 - Curtíssimo Prazo ||  ||  || Percentual de servidores capacitados (nº de servidores que participaram de capacitações / nº de servidores que integram as equipes de compras e contratações) ||  ||  || 100% ||  || 
+Elaborar manual de compras com as novas diretrizes ||  ||  || CCP ||  ||  || Junho / 2022 - Curtíssimo Prazo ||  ||  || Percentual de manuais e documentos referenciais da CCP atualizados (nº de documentos revisados / nº de documentos disponíveis) ||  ||  || 100% ||  || 
+Disponibilizar modelos referenciais dos documentos integrantes dos processos ||  ||  || CCP ||  ||  || Junho / 2022 - Curtíssimo Prazo ||  ||  || Percentual de manuais e documentos referenciais da CCP atualizados (nº de documentos revisados / nº de documentos disponíveis) ||  ||  || 100% ||  || 
+ || Mapeamento dos processos de gestão de compras e patrimônio ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Identificar e descrever as etapas e os fluxos envolvidos nos processos de compras e gestão de patrimônio e almoxarifado. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Elaborar fluxogramas dos processos de compras, descrevendo as etapas e respectivos prazos, ||  ||  || CCP ||  ||  || Maio / 2023 - Médio Prazo ||  ||  || Percentual de processos mapeados (nº de processos mapeados / nº total de ||  ||  || 100% ||  || 
+-----
+
+########## PAGINA 51 ##########
+sistemas e setores envolvidos ||  ||  ||  ||  ||  ||  ||  ||  || processos) ||  ||  ||  ||  || 
+Elaborar fluxogramas dos processos de gestão de patrimônio e almoxarifado, descrevendo as etapas e respectivos prazos, sistemas e setores envolvidos ||  ||  || Setor de Patrimônio e Almoxarifado ||  ||  || Maio / 2023 - Médio Prazo ||  ||  || Percentual de processos mapeados (nº de processos mapeados / nº total de processos) ||  ||  || 100% ||  || 
+Divulgar e disponibilizar os fluxogramas para a comunidade acadêmica ||  ||  || DIRAD ||  ||  || Maio / 2023 - Médio Prazo ||  ||  || Percentual de fluxogramas divulgados (nº de fluxogramas divulgados / nº de fluxogramas elaborados) ||  ||  || 100% ||  || 
+Padronização dos critérios de sustentabilidade para compras e contratações ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Viabilizar o cumprimento das diretrizes voltadas à preservação, à conservação e ao uso racional dos recursos naturais, por meio da adoção de critérios de sustentabilidade na fase de planejamento das aquisições e contratações. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Criar comissão para estudo, discussão e definição dos critérios de sustentabilidade nas contratações e compras ||  ||  || DIRAD ||  ||  || Maio / 2022 - Curtíssimo Prazo ||  ||  || Portaria publicada ||  ||  || Portaria publicada no prazo estabelecido ||  || 
+Elaborar manual com orientações e checklists a serem utilizados durante a fase preliminar das contratações, com critérios de sustentabilidade conforme Seção VI da IN nº 10 de 2012 ||  ||  || Comissão ||  ||  || Setembro / 2022 - Curto Prazo ||  ||  || Documento final ||  ||  || Documento final apresentado no prazo estabelecido ||  || 
+Divulgar o Manual de Sustentabilidade nas Compras e Contratos e apresentar para a DIRAD ||  ||  || Comissão ||  ||  || Setembro / 2022 - Curto Prazo ||  ||  || Documento divulgado ||  ||  || Documento divulgado no prazo estabelecido ||  || 
+Acompanhar a adoção dos critérios nos novos processos licitatórios da UFSB ||  ||  || CCP ||  ||  || Continuamente, em todos os processos licitatórios ||  ||  || Processos licitatórios verificados (nº de processos licitatórios verificados / nº de processos em andamento) ||  ||  || 100% ||  || 
+-----
+
+########## PAGINA 52 ##########
+Implementação dos sistemas de gerenciamento de compras, patrimônio e almoxarifado ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Instalar e disponibilizar ferramentas tecnológicas para ajudar na otimização da gestão de compras, patrimônio e almoxarifado ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Adquirir e instalar o Serviço de Almoxarifado Virtual ||  ||  || PROPA, PROTIC ||  ||  || Abril / 2022 - Curtíssimo Prazo ||  ||  || Sistema instalado ||  ||  || Sistema instalado no prazo estabelecido ||  || 
+Promover o Cadastro e adesão ao Sistema Integrado de Administração de Serviços (SIADS) ||  ||  || CCP, Setor de Patrimônio e Almoxarifado ||  ||  || Julho / 2022 - Curtíssimo Prazo ||  ||  || Dados e usuários da UFSB cadastrados ||  ||  || Dados e usuários da UFSB cadastrados no prazo estabelecido ||  || 
+Realizar Treinamento dos servidores para uso dos sistemas, com participação de pelo menos 1 (um) r epresentante de cada setor ||  ||  || PROTIC, PROGEPE ||  ||  || Maio / 2022 - Curtíssimo Prazo ||  ||  || Percentual de servidores capacitados (nº de servidores que participaram de capacitações / nº de setores) ||  ||  || 100% ||  || 
+Comunicação integrada entre as unidades acadêmicas para gestão e controle dos estoques e das aquisições ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Promover a integração, entre as unidades acadêmicas, das informações que envolvem a gestão de bens e insumos, para consulta aos estoques disponíveis e aos processos de compras em andamento, viabilizando fluxos compartilhados entre os campi ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Criar Grupo de Trabalho para desenvolver solução que permita a integração, de forma sistemática, das informações de patrimônio, almoxarifado e compras ||  ||  || PROTIC, PROPA ||  ||  || Outubro / 2022 - Curto Prazo ||  ||  || Solução implementada ||  ||  || Solução implementada no prazo estabelecido ||  || 
+Realizar o inventário de bens e materiais, incluindo os estoques ||  ||  || Comissões designadas ||  ||  || Anualmente ||  ||  || Relatório finalizado ||  ||  || Relatório finalizado no prazo estabelecido ||  || 
+-----
+
+########## PAGINA 53 ##########
+Atualizar os registros de bens e materiais disponíveis || Setores de Patrimônio e Almoxarifado || Continuamente || Registros atualizados || Registros atualizados
+-----
+Programa de Capacitação voltado para a sustentabilidade nos processos de aquisição e contratação ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Capacitar pessoas para atuar no planejamento de compras e contratação adotando-se referenciais que busquem promover a sustentabilidade socioambiental ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Capacitar, no mínimo, 1 (um) servidor de cada área demandante acerca das Licitações Sustentáveis ||  ||  || DIRAD, PROGEPE ||  ||  || Julho / 2022 - Curtíssimo Prazo ||  ||  || Percentual de servidores capacitados (nº de servidores que participaram de capacitações / nº de setores) ||  ||  || 100% ||  || 
+Realizar palestras, voltadas para os gestores e servidores da área de compras, com a temática das c ontratações sustentáveis ||  ||  || DIRAD, PROGEPE ||  ||  || Setembro / 2022 - Curto Prazo ||  ||  || Quantidade de ouvintes das palestras ||  ||  || 100% dos servidores convidados ||  || 
+ || Conscientização e educação organizacional sobre práticas sustentáveis e consumo eficiente ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Divulgar práticas de sustentabilidade e de racionalização do uso de materiais e serviços, abrangendo: materiais de consumo, descartáveis, serviços de reprografia, energia elétrica, água e esgotonal sobre práticas sustentáveis e consumo eficiente ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Etapa ||  ||  || Responsável ||  ||  || Prazo ||  ||  || Indicador ||  ||  || Meta || 
+Criar comissão para realização da campanha ||  ||  || Reitoria ||  ||  || Abril / 2022 - Curtíssimo Prazo ||  ||  || Portaria publicado ||  ||  || Portaria publicada no prazo estabelecido ||  || 
+Elaborar peças virtuais e cartazes visando à conscientização do público interno ||  ||  || Comissão designada ||  ||  || Maio / 2022 - Curtíssimo Prazo ||  ||  || Peças divulgadas ||  ||  || Peças divulgadas no prazo estabelecido ||  || 
+-----
+
+########## PAGINA 54 ##########
+Produzir um relatório com avaliação do consumo atual por campus || Comissão designada || Maio / 2022 - Curtíssimo Prazo || Relatório finalizado || Relatório finalizado no prazo estabelecido
+Incentivar uma disputa entre os Campi, visando à economia de energia elétrica e demais recursos viáveis || Comissão designada || Dezembro / 2022 - Curto Prazo || Percentual de redução do nível de consumo por campus || Percentuais menores em todos os campi
+Realizar treinamentos com o pessoal terceirizado sobre medidas econômicas de consumo || Comissão designada || Setembro / 2022 - Curto Prazo || Percentual de funcionários capacitados (nº de funcionários que participaram de capacitações / nº total de funcionários) || 80%
+-----
+
+########## PAGINA 58 ##########
+Monitorar adequadamente o uso e a qualidade da água ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Acompanhar a demanda de água, do ponto de vista quantitativo e qualitativo, nos campi da UFSB. ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Métricas a serem consideradas: Uso mensal de água no campus (m³ mês-1); uso per capita de água na unidade universitária (L∙dia-1); gasto com água mensal e anual ||  ||  ||  ||  ||  ||  ||  || 
+ || (R$); gasto com água per capita mensal e anual (R$ ∙ mês-1 e R$ ∙ ano-1) ||  ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável || Prazo ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Medir e acompanhar diariamente o uso de água nas unidades da UFSB ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (contínuo) || Carga horária da equipe envolvida ||  ||  || Protocolo de medição diária executado. Dados diários gerados. ||  || 
+Instalar sistemas de medição individualizado ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curto a médio prazo || Investimento em equipamentos de medição ||  ||  || Quantificação do uso mensal de água na unidade universitária (m³ mês-1) ||  || 
+Adquirir equipamentos de medição que possuam transferência de dados por telemetria e protocolo de comunicação aberto ||  || DINFRA, DIRAD e DIRPLAN || Curto a médio prazo || Investimento em equipamentos de medição ||  ||  || 100 % dos equipamentos de medição possuam a tecnologia em até 5 anos. ||  || 
+Realizar análises periódicas para verificar a potabilidade da água servida conforme a Portaria de Consolidação nº 5, de 28 de setembro de 2017, Capítulo V, Seção 2, Do Controle e da Vigilância da Qualidade da Água para Consumo Humano e seu Padrão de Potabilidade. Detalhes no Apêndice III.1. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. Investimentos em insumos para execução dos testes. ||  ||  || Testes periódicos realizados ||  || 
+-----
+
+########## PAGINA 59 ##########
+Calibrar periodicamente os equipamentos de medição conforme orientações contidas no Apêndice III.2. || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi com auxílio das Coordenações dos Laboratórios || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. || 100% dos equipamentos calibrados
+Prover a construção de laboratórios para realizar as calibrações dos equipamentos de medição que atenda os critérios estabelecidos pela ISO 17025 (Vide Apêndice III.3 para a descrição de equipamentos). || PROPA com apoio dos Conselhos Gestores dos Campi e Unidades Acadêmicas || Médio a longo prazo || Investimentos na execução das obras || 100% das instalações concluídas e operantes
+Construir laboratórios para realização das análises para monitoramento da qualidade da água (Vide Apêndice III.4 para a descrição de equipamentos). || PROPA com apoio dos Conselhos Gestores dos Campi e Unidades Acadêmicas || Médio a longo prazo || Investimentos na execução das obras || 100% das instalações concluídas e operantes
+Caracterizar a unidades existentes com base nas suas tipologias (prédios administrativos, laboratórios, salas de aula etc.) de uso predominantes. || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo a curto prazo || Carga horária da equipe envolvida. || 100% das unidades caracterizadas
+Desenvolver indicadores ambientais confiáveis para a gestão da água nos campi. Para isto, sugere-se a metodologia de processamento e análise de dados para melhor gestão da água em campus universitário desenvolvida por Brito et al. (2020) || Grupos de Pesquisa com expertise no tema e DINFRA, com apoio Diretoria de Sistemas e Conteúdos Digitais (PROTIC) || Curto prazo || Carga horária da equipe envolvida. || Estudos realizados. Indicadores desenvolvidos sendo utilizados.
+Implementar e manter um sistema computacional para auxiliar a gestão do recurso. A ferramenta deve gerar gráficos e disponibilizar os dados para acesso remoto, sugere-se o Aguapura Vianet10 || Diretoria de Sistemas e Conteúdos Digitais (PROTIC) com apoio da ASSUS e DINFRA || Curtíssimo prazo || Carga horária da equipe envolvida. Contratação e ou designação de servidor(a) dedicado ao sistema || Sistema instalado no prazo estabelecido
+-----
+
+########## PAGINA 60 ##########
+Realizar levantamento e monitorar, periodicamente, a situação das instalações hidráulicas e propor alterações necessárias para redução das perdas de água ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Cadastrar todas as redes de água e esgoto da UFSB, bem como, os equipamentos hidrossanitários para tornar as manutenções mais rápidas e eficazes e, com isso, reduzir as perdas de água ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Métricas a serem consideradas: Perda de água mensal e anual (m³ ∙ mês-1 e m³ ∙ ano-1); Tempo de conclusão de serviços de manutenção (h); Vida útil de equipamentos ||  ||  ||  ||  ||  ||  ||  || 
+ || hidráulicos ||  ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável || Prazo ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Cadastrar as informações sobre os sistemas hidrossanitários em banco de dados. Sugere-se utilizar o banco de dados desenvolvido para o CJA por Carvalho et al. (2020) (Vide Apêndice III.5). ||  || Diretoria de Sistemas e Conteúdos Digitais (PROTIC), Coordenação de Manutenção (DINFRA) || Curtíssimo prazo e permanente || Carga horária da equipe envolvida. ||  ||  || 100% dos sistemas hidrossanitários cadastrados no SIGS-UFSB ||  || 
+Avaliar periodicamente as instalações hidráulicas dos campi e registrar as informações no banco de dados. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. ||  ||  || 100% das instalações hidráulicas avaliadas e com informações registradas no SIGS-UFSB ||  || 
+Analisar banco de dados periodicamente para verificar situação do sistema hidrossanitário com intuito de propor melhorias. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. ||  ||  || Relatórios produzidos com orientações para as equipes de manutenção ||  || 
+Avaliar periodicamente a eficiência da manutenção no que tange a desperdícios e vazamentos de água. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. ||  ||  || Relatórios produzidos com orientações para as equipes de manutenção ||  || 
+Priorizar a manutenção preventiva e reduzir o tempo de solução da corretiva. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. ||  ||  || Redução de solicitações de ações corretivas. Número de ocorrências de ações de manutenção preventiva ||  || 
+-----
+Realizar levantamento e monitorar, periodicamente, a situação das instalações hidráulicas e propor alterações necessárias para redução das perdas
+de água
+-----
+
+########## PAGINA 61 ##########
+Realizar manutenções periódicas de todos os sistemas de abastecimento de água. As medidas devem garantir a qualidade de água (potável ou não) e minimizar quaisquer tipos de perdas. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi ||  || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. Investimentos em insumos necessários às ações de manutenção ||  ||  || 100% dos sistemas de abastecimento de água com registros de manutenções periódicas ||  || 
+Adquirir as ferramentas para detecção de vazamentos não visíveis e manter estoque mínimo de materiais (tubos e conexões) para reduzir o tempo de execução dos serviços de manutenção. ||  || DINFRA, DIRAD e DIRPLAN ||  || Curtíssimo a curto prazo || Investimentos para aquisição das ferramentas. Carga horária da equipe envolvida ||  ||  || Ferramentas adquiridas. Relatórios de controle de estoque ||  || 
+Dar preferência ao uso de equipamentos hidráulicos mais eficientes. Entretanto, levar em consideração o fator custo x benefício. ||  || DINFRA, DIRAD e DIRPLAN ||  || Curtíssimo prazo (periódico) || Investimentos para aquisição de equipamentos mais eficientes ||  ||  || Relatórios sobre troca dos equipamentos hidráulicos ||  || 
+Sinalizar os ambientes e instalações com maior demanda de água sobre o uso mais sustentável do recurso. ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi ||  || Curtíssimo prazo (periódico) || Carga horária da equipe envolvida. ||  ||  || Campanhas sobre uso da água em !00% dos ambientes com instalações hidráulicas ||  || 
+Promover campanhas de sensibilização para o não desperdício da água ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Sensibilizar a comunidade acadêmica para o uso racional e mais sustentável da água, diminuindo progressivamente o mau uso e desperdícios de água e, desta forma, contribuindo para uma melhor gestão da demanda. ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Foco estratégico: Diminuir progressivamente o mau uso e desperdícios de água, ||  ||  || Métricas a serem consideradas: Nível de sensibilização dos usuários ||  ||  ||  ||  ||  || 
+ || desta forma, contribuir para uma melhor gestão da demanda ||  ||  ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável ||  || Prazo ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Desenvolver ECOTIMES com servidores(as) com expertise no tema e demais pessoas interessadas. Os ECOTIMES serão nomeados por portaria oficial da instituição e as atividades serão desenvolvidas durante a jornada de trabalho dos participantes, fazendo parte do escopo de trabalho dos membros ||  || ASSUS, CPS, DINFRA, Grupos de Pesquisa ||  || Curto prazo (contínuo) || Nível de sensibilização dos usuários ||  ||  || Publicação de portarias nomeando os ECOTIMEs. Relatórios das atividades dos ECOTIMEs. ||  || 
+-----
+
+########## PAGINA 62 ##########
+(Vide Apêndice III.6). ||  ||  ||  || 
+Prover capacitações a comunidade acadêmica e corpo técnico da UFSB com objetivo de sensibilizar para o uso sustentável da água || ASSUS, CPS e PROGEPE || Curto prazo (periódico) || Carga horária da equipe envolvida. || Número de capacitações realizadas. Público alcançado
+Prover treinamentos aos colaboradores que atuam na manutenção predial e limpeza da UFSB || ASSUS e CPS || Curto prazo (periódico) || Carga horária da equipe envolvida. || Número de capacitações realizadas. Público alcançado
+Promover campanhas em datas comemorativa, tais como Dia Mundial da Água (Vide Apêndice III.7), com intuito a sensibilização do público para o não desperdício da água (uso mais sustentável). || ASSUS, CPS e ACS || Curtíssimo prazo || Carga horária da equipe envolvida. || Número de eventos realizados. Público alcançado
+Publicar em meio oficial da instituição das devolutivas das reuniões de Comitês de Bacia Hidrográfica (CBH) da região (Vide Apêndice III.8). || ASSUS, CPS e ACS || Curto prazo (periódico) || Carga horária da equipe envolvida. || Publicação de atas e/ou de relatos das reuniões dos CBHs que a UFSB tem assento
+Realizar comunicação permanente com o público usuário do recurso. || ASSUS, CPS e ACS || Curto prazo (periódico) || Carga horária da equipe envolvida. || Público alcançado
+Desenvolver uma página no site oficial da universidade para compartilhar informações acerca da gestão do uso de água, bem como, artigos e publicações referentes. || ASSUS, ACS e Diretoria de Sistemas e Conteúdos Digitais (PROTIC) || Curto a médio prazo || Carga horária da equipe envolvida. || Página oficial criada no site da UFSB
+Interagir com a comunidade acadêmica e demais membros da sociedade civil por meio das redes sociais com o propósito de sensibilizar para o uso mais sustentável do recurso. || ASSUS, CPS e ACS || Curto prazo (periódico) || Carga horária da equipe envolvida. || Público alcançado
+Desenvolver um banco de ideias, preferencialmente online, onde sugestões possam ser cadastradas pelos usuários. || ASSUS, ACS e Diretoria de Sistemas e Conteúdos Digitais (PROTIC) || Curto prazo || Carga horária da equipe envolvida. || Sistema disponibilizado para a comunidade universitária. Projetos cadastrados
+Classificar as ideias oriundas do banco de ideias e || ASSUS e CPS || Curto prazo || Carga horária da equipe || Relatórios produzidos e
+-----
+
+########## PAGINA 63 ##########
+apresentá-las a equipe de gestão para que possam contribuir na tomada de decisão. ||  || (periódico) || envolvida. || enviados para as equipes de gestão
+Promover eventos semestrais com objetivo de proporcionar interação entre a gestão, ECOTIMES e a comunidade acadêmica. Os eventos possibilitarão a apresentação de resultados e metas acerca do uso de água, bem como, exposição de trabalhos acadêmicos desenvolvidos. || ASSUS e CPS || Curto prazo (periódico) || Carga horária da equipe envolvida. || Eventos realizados (ao menos, 1 por ano)
+-----
+Utilização preferencial de procedimentos que utilizem diferentes alternativas de tratamento de efluentes e reuso de uso de água ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Dar preferência a sistema de reuso de água e de tratamento dos efluentes gerados e reduzir o uso de água tratada em locais não necessários, deste modo, almeja-se uma redução nos valores pagos a concessionária de água ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Foco estratégico: Reduzir ao máximo possível o uso de água tratada para ||  ||  ||  || Métricas a serem consideradas: Quantidade de efluente reutilizado (m³ ∙ mês- ||  ||  ||  ||  ||  || 
+ || destinações não necessárias. ||  ||  ||  || 1); Valor economizado de água da concessionária (R$ ∙ mês-1). ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável ||  || Prazo ||  ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Nomeação de Comissão para Elaboração do Plano de Gestão de Efluentes gerados em espaços de práticas laboratoriais ||  || ASSUS, Unidades Acadêmicas e Coordenação de Apoio Administ. dos Campi ||  || Curtíssimo prazo ||  || Carga horária da equipe envolvida. ||  ||  || Portaria publicada ||  || 
+Elaboração de Plano de Gestão de Efluentes gerados em espaços de práticas laboratoriais ||  || Comissão nomeada ||  || Curto prazo ||  || Carga horária da equipe envolvida. ||  ||  || Plano de Gestão de Efluentes Gerados em Laboratoriais aprovado ||  || 
+Garantir a gestão dos efluentes. Segregar e tratar ||  || Coordenação de laboratórios, ||  || Curtíssimo prazo ||  || Carga horária da equipe ||  ||  || 100% dos efluentes ||  || 
+-----
+
+########## PAGINA 64 ##########
+adequadamente os efluentes gerados em laboratórios ||  || Unidades acadêmicas, DIRAD, DINFRA. ||  || (contínuo) ||  || envolvida. Investimentos na contratação de empresa especializada ||  ||  || segregados e tratados de acordo com as normativas ||  || 
+Contratação de empresa especializada no recolhimento e tratamento de efluentes gerados em espaços de práticas que precisarão ser descartados ||  || DIRAD e DIRPLAN ||  || Curto prazo ||  || Investimentos na contratação de empresa especializada ||  ||  || Termo de referência assinado com a empresa prestadora de serviço ||  || 
+Analisar possíveis formas de utilização de sistemas de reuso de água nas edificações e destinar o uso conforme a classificação (água marrons, cinzas e amarelas) ||  || DINFRA ||  || Curto a médio prazo ||  || Carga horária da equipe envolvida. Investimentos em instalações para tratamento e reuso da água ||  ||  || Relatórios publicados. Sistemas de tratamento e reuso de água implantados, quando possível ||  || 
+Realizar as análises necessárias para garantir a qualidade do efluente exigidas por lei (Vide Apêndice III.9) ||  || DINFRA ||  || Curtíssimo prazo ||  || Carga horária da equipe envolvida. ||  ||  || Relatórios produzidos. ||  || 
+Prover a construção de laboratórios para realização das análises da qualidade dos efluentes e viabilizar que os períodos descritos sejam atendidos (Vide Quadro 3 do Apêndice III.9) ||  || PROPA com apoio dos Centros de Formação interessados ||  || Médio a longo prazo ||  || Investimentos na execução das obras ||  ||  || 100% das instalações concluídas e operantes ||  || 
+Aproveitamento de água da chuva e de poços artesianos ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Reduzir o uso de água tratada e de custo maior e dar preferência ao uso de água de fontes alternativas quando possível ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Foco estratégico: Reduzir o uso de água tratada e de custo maior e dar preferência ||  ||  ||  || Métricas a serem consideradas: Água de fontes alternativas (m³ ∙ mês-1 e m³ ∙ ||  ||  ||  ||  ||  || 
+ || ao uso de água de fontes alternativas quando possível ||  ||  ||  || ano-1); Valor economizado de água da concessionária (R$ ∙ mês-1 e R$ ∙ ano-1) ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável ||  || Prazo ||  ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Quando possível, adotar sistema de armazenamento e aproveitamento de água de chuva para fins não potáveis conforme ||  || DINFRA ||  || Curto a médio prazo ||  || Investimentos na execução das obras ||  ||  || Sistemas de armazenamento e aproveitamento de água instalados ||  || 
+-----
+
+########## PAGINA 65 ##########
+regulamentação vigente ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Quando possível, dar preferência a captação de água de poços artesianos, atender regulamentação vigente ||  || DINFRA ||  || Curto a médio prazo ||  || Investimentos na execução das obras ||  ||  || Poços artesianos instalados nos Campi, quando possível ||  || 
+Incentivar a priorização do uso de água de chuva e de poços artesianos, quando adequado ||  || DINFRA ||  || Curto a médio prazo ||  || Investimentos na execução das obras ||  ||  || Diretrizes para uso prioritário de fontes alternativas de água publicadas ||  || 
+Realizar manutenções periódicas de todos os sistemas de abastecimento de água. As medidas devem garantir a qualidade de água (potável ou não) e minimizar quaisquer tipos de perdas ||  || Coordenação de Manutenção (DINFRA), Coord. de Apoio Administrativo dos Campi ||  || Curtíssimo prazo (periódico) ||  || Carga horária da equipe. Investimentos em materiais e equipamentos para as ações de manutenção ||  ||  || 100% dos sistemas de abastecimento de água com registros de manutenções periódicas ||  || 
+Rotinas acerca da periodicidade de irrigação de jardins, de forma a estipular períodos padronizados para esta atividade em cada época do ano ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Empregar a quantidade adequada de água nas irrigações de acordo a demanda das espécies para assim evitar desperdícios ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Foco estratégico: Estudos sobre a demanda de água para irrigação das áreas verdes ||  ||  ||  || Métricas a serem consideradas: Uso de água mensal e anual para irrigação por ||  ||  ||  ||  ||  || 
+ || da UFSB e com isso reduzir as quantidades de água para o estritamente necessário ||  ||  ||  || tipo de espécie (m³∙mês-1 e m³∙ano-1) ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável ||  || Prazo ||  ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Desenvolver estudo sobre a demanda de água para irrigação das áreas verdes e, com isso, reduzir o consumo de água para o estritamente necessário ||  || DINFRA, Coord. de Apoio Administrativo dos Campi, Unidades Acadêmicas ||  || Curtíssimo prazo ||  || Carga horária da equipe envolvida. ||  ||  || Relatórios publicados ||  || 
+Mapear às espécies que compõe o paisagismo da instituição ||  || Unidades Acadêmicas, Jardim Botânico FLORAS, DINFRA ||  || Curto prazo ||  || Carga horária da equipe envolvida. ||  ||  || Relatórios publicados ||  || 
+Dimensionar o volume de água das irrigações e periodicidade de acordo a necessidade das espécies ||  || Unidades Acadêmicas, Jardim Botânico FLORAS, DINFRA ||  || Curto prazo ||  || Carga horária da equipe envolvida. ||  ||  || Relatórios publicados ||  || 
+-----
+
+########## PAGINA 66 ##########
+Dar preferência ao uso de águas provenientes de sistema de reaproveitamentos de água (águas pluviais e de reuso) ||  || DINFRA, Coord. de Apoio Administrativo dos Campi ||  || Curto a médio prazo ||  || Investimentos na execução das obras. Carga horária da equipe envolvida. ||  ||  || Relatórios sobre o uso de água provenientes de fontes alternativas ||  || 
+Criação de poços ou caixa de armazenagem de água próprias para irrigação, provenientes de água de chuva, juntamente com um sistema de irrigação ||  || DINFRA ||  || Curto a médio prazo ||  || Investimentos na execução das obras ||  ||  || Sistemas instalados e operantes ||  || 
+Preferência pela lavagem ecológica ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Empregar a quantidade adequada de água nas irrigações de acordo a demanda das espécies para assim evitar desperdícios ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Foco estratégico: Reduzir por meio do reaproveitamento ou eliminar o uso de água ||  ||  ||  || Métricas a serem consideradas: Uso de água mensal e anual para lavagem de ||  ||  ||  ||  ||  || 
+ || da lavagem dos veículos ||  ||  ||  || veículos (m³∙mês-1 e m³∙ano-1) ||  ||  ||  ||  ||  || 
+Ações ||  || Responsável ||  || Prazo ||  ||  || Recursos financeiros e ||  ||  || Indicador(es) de || 
+ ||  ||  ||  ||  ||  ||  || não financeiros ||  ||  || referência || 
+Evitar o desperdício de água na lavagem dos veículos da UFSB ||  || DINFRA, DIRAD, Coord. de Apoio Administrativo dos Campi ||  || Curtíssimo prazo ||  || Não se aplica ||  ||  || Diretrizes orientando os procedimentos para lavagem da frota de veículos, prevendo o uso racional de água ||  || 
+Reduzir por meio do reaproveitamento ou eliminar o uso de água da lavagem dos veículos ||  || DINFRA, DIRAD, Coord. de Apoio Administrativo dos Campi ||  || Curtíssimo prazo ||  || Investimentos na execução das obras e/ou contratação de empresa especializada ||  ||  || Sistemas instalados e operantes ou Termo de referência com a empresa terceirizada. Diretrizes orientando os procedimentos para lavagem da frota de veículos, prevendo o uso racional da água. ||  || 
+Contratar empresas que reutilizam a água das lavagens dos veículos ou não fazem uso de água e, usam produtos biodegradáveis ||  || DIRAD ||  || Curto prazo ||  || Investimentos na contratação de empresa especializada ||  ||  || Termo de referência assinado com a empresa prestadora de serviço ||  || 
+-----
+
+########## PAGINA 71 ##########
+Quadro IV.1- Panorama da gestão de resíduos sólidos em municípios de abrangência da UFSB ||  ||  ||  ||  ||  ||  ||  ||  || 
+Municípios ||  || Quantitativo de ||  || Destinação ||  || Instituição formal de ||  || Presença de catadores/as? || Características
+ ||  || Resíduos ||  ||  ||  || catadores? ||  ||  || 
+ ||  || Sólidos ||  ||  ||  || Infraestrutura mínima? ||  ||  || 
+Coaraci1 || 16,2 ton/dia ||  ||  || Vazadouro (Lixão) || Não ||  ||  || Sim || Vazadouro dentro da área urbana.
+Eunápolis || 107,1 ton/dia ||  ||  || Aterro sanitário de Santa Cruz Cabrália || Sim / Não ||  ||  || Sim || A destinação para o aterro sanitário de Cabrália se deu em 2021. Antes disso, o vazadouro estava dentro da área urbana.
+Floresta Azul1 || 10,2 ton/dia ||  ||  || Vazadouro (Lixão) || Não ||  ||  || Sim || Vazadouro adjacente a muro de condomínio residencial.
+Ibicaraí1 || 20,7 ton/dia ||  ||  || Vazadouro (Lixão) || Não ||  ||  || Sim || Uma estrada passa por dentro do vazadouro. Há relatos de moradores de incêndios diários
+Ilhéus || 155 ton/dia ||  ||  || Aterro sanitário || Sim/ Não ||  ||  || Sim || Grupos de pesquisa afirmam que, por falta de manutenção, o aterro tornou- se “lixão”.
+Itabuna1 || 203 ton/dia ||  ||  || Vazadouro (Lixão) até maio de 2021 Aterro sanitário a partir desta data. || Não ||  ||  || Sim || Até maio de 2021, vazadouro a 3km da maternidade pública e a 20km do Rio Cachoeira que abastece a cidade. A partir desta data, o município descarta os resíduos urbanos em aterro sanitário recém-construído.
+Itajuípe1 || 19,5 ton/dia ||  ||  || Vazadouro (Lixão) || Não ||  ||  || Sim || Vazadouro a menos de 10 m do rio Almada que abastece muitos municípios do sul da Bahia
+Porto Seguro || 142 ton/dia ||  ||  || Aterro sanitário || Sim/ Não ||  ||  || Sim || Grupos de pesquisa afirmam que, por falta de manutenção, o aterro tornou-se “lixão”.
+-----
+Presença de
+catadores/as?
+-----
+
+########## PAGINA 72 ##########
+Teixeira de Freitas1 || 153 ton/dia || Aterro controlado || Sim/ Não || Sim || Quando chove, as “lagoas” de chorume transbordam. Há um córrego a poucos metros do vazadouro.
+-----
+
+########## PAGINA 104 ##########
+Eixo Temático: Resíduos Sólidos ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Elaborar e implantar a Política Gestão de Resíduos Sólidos da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Unidade Responsável: ASSUS ||  || Segmentos Envolvidos: DIRAD, DINFRA, DIRPLAN, Conselho Gestor dos Campi, Coordenações de Apoio Administrativo dos Campi e respectivos setores de sustentabilidade, cursos de graduação e pós-graduação e representantes de projetos de pesquisa e extensão com afinidade à temática. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Indicador || Descrição || Fórmula ||  || Metas ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  || Ano 01 ||  ||  || Ano 02 ||  ||  || Ano 03 ||  ||  || Ano 04 ||  ||  || Ano 05 || 
+Índice de atividades de discussão coletiva para a construção da Política de RS da UFSB || Índice, em porcentagem, das atividades de discussão realizadas em relação à meta estabelecida. || (n° atividades de discussão realizadas / n° total planejada) x 100 || 100% ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Índice de atividades de consulta à minuta da Política de RS da UFSB || Índice, em porcentagem, das atividades de consulta às comunidades interna e externa realizadas em relação ao planejado. || (n° atividades de consulta realizadas / n° total planejada) x 100 || 100% ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Número de divulgação sobre a Política. || Número absoluto das divulgações, no site oficial da UFSB e outros canais institucionais, sobre os principais itens da política. || número de divulgações ao ano || 4 ||  ||  || 10 ||  ||  || 12 ||  ||  || 12 ||  ||  || 15 ||  || 
+-----
+
+########## PAGINA 105 ##########
+Eixo Temático: Resíduos Sólidos ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Elaborar e implantar o Plano de Gestão e Gerenciamento de Resíduos Sólidos da UFSB (PGGRS-UFSB) ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Unidade Responsável: Comissão permanente para elaboração, coordenação e monitoramento do Plano (PGGRS). ||  || Segmentos Envolvidos: ASSUS, DIRAD, DINFRA, DIRPLAN, Conselho Gestor dos Campi, Coordenações de Apoio Administrativo dos Campi e respectivos setores de sustentabilidade, cursos de graduação e pós-graduação e representantes de projetos de pesquisa e extensão com afinidade à temática. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Indicador || Descrição || Fórmula ||  || Metas ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  || Ano 01 ||  ||  || Ano 02 ||  ||  || Ano 03 ||  ||  || Ano 04 ||  ||  || Ano 05 || 
+Taxa de diagnóstico realizado nas unidades administrativas e acadêmicas || Taxa, em percentual, de unidades administrativas e acadêmicas que realizaram diagnóstico dos resíduos sólidos gerados ou administrados || (n° de unidades administrativas e acadêmicas que realizaram diagnóstico/ n° total de unidades) x 100 || 100% ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Taxa de diagnóstico dos serviços terceirizados realizado || Taxa, em percentual, de serviços terceirizados que realizaram diagnóstico dos resíduos sólidos gerados ou administrados por campus e reitoria como por exemplo, serviço de limpeza, manutenção predial, manutenção de aparelhos de ar- condicionado, manutenção veicular etc.) || (n° de unidades de serviços terceirizados que realizaram diagnóstico/ n° total de serviços terceirizados) x 100 || 100% ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Percentual de desenvolvimento dos projetos e construção dos locais de armazenamento temporário dos diversos resíduos e composteira nos campi. || Percentual de etapas para elaboração de projeto, processo licitatório e afins e construção dos Espaços de Armazenamento temporários para os resíduos gerados na UFSB e recebidos pelos PEVs e das composteiras. || (etapas executadas/ etapas planejadas) x 100 || 15% ||  ||  || 100% ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+-----
+
+########## PAGINA 106 ##########
+Taxa de execução de licitações para a compra de lixeiras, coletores, contêineres, balanças, carrinhos para transporte interno dos resíduos e outros determinados pelo PGGRS da UFSB || Taxa, em percentual, de execução de licitações para a compra de lixeiras, coletores, contêineres, balanças, carrinhos para transporte interno, caixas plásticas, paletes, sinalização e outros. || (n° de etapas das licitações para a compra realizadas/ n° total de etapas) x 100 || 10% || 100% ||  ||  || 
+Índice de Alcance de metas do Plano de gestão e gerenciamento de resíduos sólidos (PGGRS) || Índice, em porcentagem, do alcance da UFSB das metas estabelecidas no seu PGGRS. || (n° de metas do PGGRS alcançadas/ n° total de metas) x 100 || 5% || 25% || 50% || 80% || 100%
+Percentual de chamadas públicas que incentivem projetos de educação ambiental e de desenvolvimento de tecnologias e inovações ligados à temática de resíduos sólidos. || Percentual de chamadas públicas internas (editais) lançadas, as quais incentivam projetos de educação ambiental e desenvolvimento de tecnologias e inovações para a minimização e melhoria da gestão e gerenciamento dos resíduos sólidos, entre outros afins. || (número de chamadas públicas lançadas/ número de chamadas públicas planejadas) x 100 || __ || 85% || 85% || 85% || 85%
+Número de divulgação das metas e operacionalização do plano. || Número absoluto das divulgações, no site oficial da UFSB e outros canais institucionais, sobre os objetivos, indicadores, metas e fase de operacionalização do PGGRS. || número de divulgações ao ano || 1 || 2 || 2 || 3 || 3
+-----
+Eixo Temático: Resíduos de Laboratórios e de Serviços de Saúde || 
+Objetivo: Elaborar e implementar o Plano de Gestão e Gerenciamento de Resíduos de Laboratório e de Serviços de Saúde || 
+Unidade Responsável: Comissão permanente para elaboração, coordenação e || Segmentos Envolvidos: ASSUS, DINFRA, DIRAD, DIRPLAN, Conselhos Gestores
+-----
+
+########## PAGINA 107 ##########
+monitoramento do Plano (PGGRS) ||  || dos Campi, Coordenações de Apoio Administrativo dos campi e respectivos setores de sustentabilidade, bem como as seções e gestores de laboratórios, seções de almoxarifado e compras, o setor de saúde, cursos de graduação e pós-graduação e representantes de projetos de pesquisa e extensão com afinidade à temática. ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Indicador || Descrição || Fórmula ||  || Meta ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  || Ano 01 ||  ||  || Ano 02 ||  ||  || Ano 03 ||  ||  || Ano 04 ||  ||  || Ano 05 || 
+Taxa de diagnóstico das unidades geradoras e gestoras por classe de resíduo de laboratório e serviço de saúde. || Taxa, em percentual, de unidades geradoras (laboratórios unidades que desenvolvem serviços de saúde) e gestoras (desde a compra até unidades de armazenamento) que realizaram diagnóstico por classe de resíduos laboratoriais de serviços de saúde. || (n° de unidades geradoras e gestoras que realizaram diagnóstico/ n° total de unidades geradoras e gestoras) x 100 || 30% ||  ||  || 100% ||  ||  || - ||  ||  || - ||  ||  || - ||  || 
+Taxa de execução das capacitações para a gestão e manejo dos resíduos de laboratório e de serviços de saúde. || Taxa, em percentual, da execução da capacitação dos recursos humanos envolvidos nos processos de aquisição, cadastro e distribuição de insumos laboratoriais, assim como no manejo, armazenamento e destinação final dos resíduos. || (n° de capacitações executadas/ n° total de capacitações previstas) x 100 || - ||  ||  || 30% ||  ||  || 50% ||  ||  || 100% ||  ||  || - ||  || 
+Taxa de execução do Plano de Gestão e Gerenciamento de Resíduos de Laboratório e Serviços de Saúde. || Taxa, em percentual, de execução das etapas previstas no Plano de Gestão e Gerenciamento de Resíduos de Laboratório e Serviços de Saúde. || (etapas executadas/ etapas planejadas) x 100 || 5% ||  ||  || 30% ||  ||  || 50% ||  ||  || 70% ||  ||  || 100% ||  || 
+-----
+
+########## PAGINA 114 ##########
+Quadro V.1- Resumo das Ações de Promoção da Qualidade de Vida no Trabalho (QVT) em Instituições de Ensino Superior ||  ||  ||  ||  ||  ||  ||  || 
+ || Instituição ||  ||  || Programa/Tema ||  ||  || Descrição/Iniciativa || 
+UNB ||  ||  || Viva Mais! Programa de Preparação para Aposentadoria ||  ||  || Incentivo aos servidores técnicos e docentes da Universidade de Brasília a refletirem sobre a aposentadoria e planejarem esse momento com tranquilidade, aumentando a possibilidade de vivenciar essa fase da vida com mais saúde e qualidade. O programa é realizado por meio de curso, palestras e oficinas, sendo composto por 13 encontros em grupo com profissionais especialistas no tema. As oficinas e palestras ocorrem em um encontro grupal, de acordo com a necessidade e sem inscrições, podendo ser acordados previamente com os centros de custo. ||  || 
+ ||  ||  || Programa EQUILÍBRIO ||  ||  || Promove a alimentação saudável e a prática regular de exercícios físicos. O Serviço é realizado por equipe multiprofissional da psicologia, nutrição, educação física e medicina, por meio de curso oferecido semestralmente, através de parceria estabelecida entre a CASQV/DSQVT e a PROCAP/DCADE. ||  || 
+ ||  ||  || Curso de Desenvolvimento de Habilidades Sociais ||  ||  || Auxilia os trabalhadores em suas relações interpessoais, proporcionando relações mais salutares e respeitosas dentro e fora do ambiente de trabalho. ||  || 
+ ||  ||  || Serviço de Acolhimento Psicossocial ||  ||  || Espaço de escuta destinado aos servidores que necessitem compartilhar queixas, angústias e/ou qualquer questão que se apresente enquanto problema que ocasione crise. ||  || 
+ ||  ||  || Serviço de Intervenção em Crise ||  ||  || Espaço de escuta destinado à pessoa que se encontra em situação de crise psíquica grave. O ingresso no Serviço se dá apenas por meio de encaminhamento do Serviço de Acolhimento Psicossocial. ||  || 
+ ||  ||  || Serviço de Escuta Qualificada Relacionada ao Trabalho ||  ||  || Espaço individual ou coletivo de escuta e fala, para tratar das questões relacionadas ao trabalho/trabalhador que possam estar gerando sofrimento. Os encontros ocorrem semanalmente, ||  || 
+-----
+
+########## PAGINA 115 ##########
+ ||  || com duração de 2 horas para escuta coletiva e 50 minutos para escuta individual.
+ || Serviço de Atenção ao Gestor (PRO Gestor) || Espaço de acolhimento e escuta para o gestor. O objetivo é identificar e trabalhar as principais facilidades e dificuldades relacionadas ao cargo de gestão. O atendimento é individual e semanal.
+ || Serviço de Acompanhamento Funcional do Servidor || Constitui um programa de Qualidade de Vida no Trabalho que tem como objetivos oferecer acompanhamento funcional ao servidor que: I. apresenta baixo desempenho nas avaliações do estágio probatório e que tenha sido encaminhado para a CASQV; II. encontra-se em processo de remoção por saúde e que tenha sido encaminhado para a CASQV; III. necessite ou se encontre em processo de readaptação e que tenha sido encaminhado para a CASQV; IV. faça uso de álcool e outras drogas e que tenha sido encaminhado para CASQV.
+UFBA || “Planejando seu Futuro: Transição para a Aposentadoria” || Consiste na realização das oficinas e palestras temáticas sobre Vida Pós-Carreira, Possibilidades de Autodesenvolvimento, Oficina Administrando suas Finanças e Empreendedorismo.
+ || “Bem Viver” || O Programa “Bem Viver” foi implementado inicialmente em 03 Unidades Universitárias (Escola de Medicina Veterinária, Instituto de Física e Instituto de Química). Inicialmente, buscou-se identificar fatores que afetam as relações e processos de trabalho, bem como a implementação de um conjunto de ações que evitem e minimizem os efeitos nocivos à saúde em geral, à segurança e ao bem-estar no ambiente de trabalho, enfatizando entre as várias dimensões da qualidade de vida no trabalho a melhoria do ambiente organizacional, conhecendo e avaliando os anseios, necessidades e a percepção dos servidores das Unidades participantes. Para isso foram realizadas oficinas de alongamento, ginástica laboral, habilidades sociais e relações interpessoais.
+UFRB || Plano de Acompanhamento de Saúde Ocupacional || Realização de Exames Periódicos; Acompanhamento do perfil de saúde dos servidores da UFRB; Formação de monitores de Qualidade de Vida em todas as unidades da UFRB; Campanhas educativas sobre prevenção e saúde abordando temas como; diabetes, hipertensão, stress, obesidade, câncer, drogas lícitas e ilícitas, DST, etc.; Implantação a ginástica laboral; Identificação e elaboração de ações preventivas contra riscos ocupacionais físicos, químicos e biológicos; Identificação e elaboração de ações que previnam riscos ergonômicos;
+-----
+
+########## PAGINA 116 ##########
+ || Plano de Prevenção de Riscos Ambientais || Indicação de equipamentos individuais e coletivos de proteção;
+ || Plano de Cultura / Esportes e Lazer || Estimular e promover caminhadas ecológicas; Estimular e promover eventos esportivos abrangendo diversas modalidades; Estimular e valorizar talentos artísticos dos servidores da UFRB através de realizações de exposições e apresentações musicais; Estimular a formação de grupo de teatro; Estimular a formação de um clube para troca e empréstimo de livros; Estimular e promover ações sociais de voluntariado; Criação de espaço no site da UFRB destinado a divulgar, artigos e textos sobre temas relacionados a qualidade de vida no ambiente de trabalho; Implantar salas de convivência nas unidades da UFRB.
+UFMS || Voluntariado na melhoria do ambiente de trabalho || -Eliminar possíveis criadouros do vetor Aedes Aegypti com ações mensais dos colaboradores de 2019 a 2021. -Manter adesão ao Programa Integrado Intersetorial de Combate aos Vetores da Dengue, Chikungunya e zica vírus. -Realizar Força Tarefa em parceria com a Coordenadoria de Controle de Endemias Vetoriais da SESAU uma vez ao ano até 2021. -Promover a formação de brigadistas, qualificando ao menos um brigadista em cada unidade da UFMS, por meio de capacitação em julho de 2019, junho de 2020 e junho de 2021.
+ || Promoção da saúde dos servidores || -Promover a realização anual de exames periódicos até 2021
+ || Promover um ambiente saudável e estimulante || -Instalar Placas com poesias e frases motivacionais em todos os corredores da Cidade Universitária até 2019 e demais Campus até 2021. -Instalar 10 bancos e 10 pergolados na Cidade Universitária. -Instalar 10 bancos e 10 pergolados nos Campus até 2019.
+UFABC || Ações de segurança e da saúde no trabalho || As ações de qualidade de vida no trabalho têm como pontos principais a questão da segurança e da saúde no trabalho e envolve atividades como a mensuração da temperatura interna e externa, área de abertura para a ventilação natural, área de janela para a iluminação natural, iluminação das áreas de trabalho, quantos metros quadrados estão disponíveis por pessoa, a concentração de CO2 e o ponto de orvalho.
+-----
+
+########## PAGINA 117 ##########
+UFMT || Ações referentes a Qualidade de Vida no Trabalho || - Projeto Peso Ideal - Musculação - Ginástica - Hidroginástica - Yoga - Dança de Salão - Dança do Ventre - Técnica Vocal - Violão
+UFF || Eixo Temático: Qualidade De Vida TEMA: saúde dos servidores, colaboradores e alunos || - Implantar programa de gestão de risco na UFF. - Manter e ampliar os programas da UFF voltados para atividade física - Definir padrões ergonômicos para materiais e equipamentos - Criar campanhas de vacinação da gripe, hepatite, entre outras, na UFF. - Aumentar as especialidades médicas no serviço de atendimento médico da UFF. - Realizar campanhas de atendimento médico nas unidades fora da sede pelo menos duas vezes/ano. - Realizar campanhas educativas sobre prevenção em saúde, abordando temas como: ergonomia, saúde mental, diabetes, hipertensão stress obesidade, câncer de mama, próstata e pele, DST’s, drogas lícitas e ilícitas, entre outros. - Estudar a possibilidade de levar o programa de atendimento psicológico existente na UFF para as unidades fora da sede, que ainda não possuam esse serviço. - Criar campanhas para diagnósticos de problemas psicológicos em toda comunidade universitária e realizar encaminhamentos para tratamento quando necessário. - Criar campanhas educativas para estimular bons hábitos de saúde (alongamentos, bons hábitos alimentares, atividade física, entre outros). - Realizar capacitações que visem a prevenção de acidentes de trabalho dos servidores. - Criar protocolo de segurança para cada tipo de laboratório da UFF. - Elaborar um manual contendo as exigências mínimas e instruções de utilização EPI e EPC. - Adquirir EPI’s e EPC’s para as principais atividades realizadas nas dependências da UFF. - Realizar campanha educativa para utilização de EPI’s e EPC’s. - Realizar mapeamento de risco junto aos laboratórios e outros geradores de RSS.
+-----
+
+########## PAGINA 118 ##########
+ || Eixo Temático: Qualidade De Vida - TEMA: Segurança nos Campi || - Melhorar a iluminação nos Campi. - Criar um sistema on-line de registro e mapeamento das ocorrências nos Campi. - Instalar câmeras de segurança nos Campi em locais estratégicos. - Realizar campanhas a fim de instruir a comunidade universitária sobre a importância do registro de ocorrência. - Criar normativa de conduta para equipe de vigilância da UFF. - Promover capacitação para equipe de segurança segundo normativa de segurança da universidade. - Criar Comissão Permanente de Segurança na UFF. - Realizar tratativas com as Prefeituras em cada município onde a UFF tem unidades, a fim de estabelecer parceria para promover o aumento da ronda de vigilância das guardas municipais nos arredores das unidades da UFF.
+ || Eixo Temático: Qualidade De Vida - TEMA: Água destinada ao consumo || - Realizar limpeza periódica nas caixas de água das unidades da UFF - Realizar limpeza e troca periódica dos filtros dos bebedouros de todas as unidades. - Monitorar periodicamente a qualidade da água nos Campi, seguindo os parâmetros do Ministério da Saúde. - Sinalizar nos bebedouros a data de troca e validade dos filtros. - Sinalizar em todos os prédios da UFF que a qualidade da água está sendo monitorada e encontra- se adequada ao consumo humano. - Instalar purificadores de água em locais onde não haja bebedouros ou galões de água mineral.
+ || Eixo Temático: Qualidade De Vida - TEMA: Qualidade do ar nos ambientes internos. || - Realizar limpeza periódica dos filtros dos condicionadores de ar da UFF. - Realizar manutenção periódica dos condicionadores de ar da UFF. - Incentivar toda comunidade universitária a dar preferência à ventilação natural nos ambientes mais arejados. - Monitorar a qualidade do ar nos ambientes internos dos laboratórios - Realizar campanhas educativas sobre bons hábitos aos fumantes. - Realizar revisão periódica dos exaustores.
+ || Eixo Temático: Qualidade De Vida - TEMA: Áreas verdes || - Incentivar e apoiar projetos para criação de hortas orgânicas, canteiros de ervas medicinais, entre outros nos Campi da UFF. - Definir áreas para compensação ambiental em todas as unidades da UFF. - Realizar estudo sobre as espécies de árvores nativas de cada região das unidades da UFF
+-----
+
+########## PAGINA 119 ##########
+ ||  || - Incentivar o plantio de árvores nativas em todas as unidades da UFF. - Dar continuidade aos projetos de reflorestamento de áreas degradadas.
+ || Eixo Temático: Qualidade De Vida - TEMA: Áreas de Preservação Permanente (APP’s) e Áreas de Preservação Ambiental (APA’s) || - Identificar as APA’s e APP’s, classificá-las e delimitá-las. - Realizar limpeza periódica das APA’s e APP’s - Sinalizar as APA’s e APP’s com placas, contendo informações educativas relativas à preservação das mesmas. - Recuperar áreas de APA’s e APP’s que estiverem degradadas. - Realizar reflorestamento em torno dos corpos hídricos a fim de garantir o volume e qualidade das águas.
+ || Eixo Temático: Qualidade De Vida - Qualidade de vida || - Criar espaços de convivência para servidores e colaboradores, para integração e descanso nos intervalos de almoço e lanche. - Criar ambiente virtual para servidores e colaboradores trocarem experiências e exporem suas habilidades e conhecimentos - Intensificar atividades culturais para comunidade universitária. - Estimular a promoção de eventos com objetivo de integrar toda comunidade universitária, além de melhorar o estilo de vida das pessoas. - Realizar eventos de integração, tais como: semana do servidor, festas em datas comemorativas, entre outros - Criar portal para estimular e promover ações sociais de voluntariado. - Continuar a divulgar periodicamente, no site da UFF, as atividades para promoção da saúde e bem- estar. - Realizar campanhas de estímulo à alimentação saudável. - Incentivar projetos de extensão e de pesquisa que promovam o bem-estar de servidores, alunos e colaboradores. - Realizar feiras agroecológicas e de artesanato na UFF. - Priorizar o atendimento às solicitações onde existam agentes ambientais de desconforto, tais como: ruído, falta ou excesso de luminosidade, poluição do ar, entre outros. - Estender o período de funcionamento dos Restaurantes Universitários (RU’s) para atender aos alunos que permanecem nas unidades durante as férias, mediante a inscrição prévia dos interessados. - Oferecer diariamente nos RU’s refeições com opção vegetariana/vegana.
+-----
+
+########## PAGINA 120 ##########
+ ||  || - Divulgar aos alunos a disponibilidade de serviço de atendimento psicológico na Reitoria e Faculdade de Psicologia. - Substituir progressivamente o mobiliário das salas de aula por equipamentos mais ergonômicos. - Incentivar e promover áreas de estudo ao ar livre. - Criar canal de comunicação para identificar e quantificar as necessidades da comunidade universitária, relativas à melhoria da qualidade de vida para realização das atividades acadêmicas e administrativas. - Criar campo de estágio para a Comissão Permanente de Sustentabilidade com objetivo de aproximar a comunidade acadêmica das iniciativas relativas à sustentabilidade na UFF. - Estimular a criação de novos programas relacionados à melhora da qualidade de vida na UFF. - Incluir programas relacionados à qualidade de vida nas unidades fora da sede. - Distribuir kits com informações sobre preservação ambiental e qualidade de vida.
+ || Eixo Temático: Qualidade De Vida - TEMA: Acessibilidade || - Propor mudanças na estrutura física dos setores e unidades acadêmicas para garantir uma melhor acessibilidade nas áreas comuns. - Mapear os servidores e estudantes com algum tipo de deficiência. - Promover assistência específica para servidores e alunos com algum tipo de deficiência. - Sensibilizar os setores e unidades que receberão novos servidores e alunos com algum tipo de deficiência.
+ || Eixo Temático: Qualidade De Vida - TEMA: Situações de emergência || - Elaborar Plano de Emergência nos Campi, contendo rotas de fuga e instruções de situações de emergência. - Promover vídeos instrutivos para locais onde são realizados eventos e festas. - Rever contratos de manutenção dos sistemas preventivos de segurança na UFF segundo Plano de Emergência. - Adequar as instalações do HUAP às normas de segurança para situações de emergência. - Elaborar Programa de Brigada de Incêndio, conforme Portaria 3214/78 e NBR 14276. - Gerar plantas de saídas de emergência para edificações da UFF.
+UNIVASF || Qualidade de vida no ambiente de trabalho || - Capacitar as equipes SIASS, Superintendência de Gestão de Pessoas-SGP e Reitoria sobre Programa de Qualidade de Vida no Trabalho, visando unidade conceitual - Iniciar levantamento epidemiológico em saúde dos servidores da Univasf - Realizar, anualmente, os exames médicos periódicos para os servidores da Univasf
+-----
+
+########## PAGINA 121 ##########
+ ||  || - Avaliar os ambientes de trabalho da Univasf - Realizar campanha de informação sobre saúde do servidor no ambiente de trabalho, com edições anuais - Realizar campanhas de imunização para os servidores da Univasf em parceria com as Secretarias Estaduais e Municipais de Saúde, em todos os campi da universidade - Desenvolver o Projeto Preparação para a Aposentadoria, anualmente, em prol da qualidade de vida na aposentadoria - Desenvolver, anualmente, o Projeto Saúde Vocal em todos os campi da Univasf - Desenvolver o Projeto Acolhimento do Servidor na Admissão e Perícia Médica - Realizar o Projeto Coração Saudável anualmente - Desenvolver o Programa Integralmente Bem.
+UNIFAL || - Encontro de qualidade de vida e promoção à saúde do servidor || - Ações realizadas por equipe multiprofissional das áreas de fisioterapia, nutrição, psicologia, medicina e odontologia no dia 14 de agosto de 2013 (Horário: 8 às 11h - 14 à 17h).
+ || - Programa de cessação do tabagismo || - Ações realizadas por equipe multiprofissional das áreas de fisioterapia, nutrição, psicologia, medicina, odontologia e enfermagem durante o ano de 2013 a 2014.
+ || - Atividades fisioterápicas (mãos que aliviam e ginástica laboral) || - Ações realizadas pelo serviço de fisioterapia. De 2a a 6a feira, 3 vezes/semana em cada prédio.
+ || - Prevenção de doenças infecto contagiosas (por meio de vacinação) || - Avaliação os cartões de vacina de todos os servidores durante o 2º semestre de 2013.
+ || - Detecção, controle e avaliação dos servidores hipertensos e diabéticos || - Ações realizadas por equipe multiprofissional das áreas de Enfermagem do trabalho, médicos, nutricionista, fisioterapeuta e odontóloga, nos meses de julho 2013/2014.
+ || - Programa de promoção de saúde bucal do servidor || - Ações realizadas pelo dentista com atendimento e atividades educativas de agosto de 2013 a 2014.
+ || - Implantar programa de prevenção de riscos ambientais – PPRA || - Eliminar ou minimizar os riscos não aceitáveis à saúde e segurança dos trabalhadores.
+-----
+
+########## PAGINA 122 ##########
+UFRR || Qualidade de Vida || - Fomentar 01 ação anual de integração institucional até 2020. - Estruturar 01 espaço de descanso em cada campi para atender os servidores que realizam jornada ininterrupta na UFRR até 2019.
+UFRGS || Ações no ambiente de trabalho || Ações envolve vistorias periódicas aos ambientes de trabalho, com emissão de notificação de vistoria técnica com recomendações para melhoria e/ou adequações dos espaços de trabalho; formação dos membros das Comissões de Saúde e Ambientes de Trabalho (COSAT).
+ || Ações voltadas à prevenção de doenças e de agravos à Saúde dos trabalhadores || Ações envolve oficina de construção de mapa de riscos; capacitação em primeiros socorros; acompanhamento psicossocial a servidores e a equipes que apresentem situações com dificuldades de saúde relacionadas ao ambiente de trabalho e com a gestão do trabalho; exames médicos periódicos; preparação para a aposentadoria; recepção aos ingressantes e imunizações.
+ || Avaliação e controle da qualidade do ar nos ambientes climatizados || Manutenção periódica dos aparelhos de ar-condicionado com estabelecimento de cronograma e manutenção e /ou substituição de aparelhos que provoquem ruídos que possam interferir na saúde dos servidores.
+ || Projeto "Universidade livre da fumaça do tabaco" || Inclui seminário na Unidade requisitante, colocação de material ilustrativo que passa a identificar o local como livre da fumaça, evitando- se o fumo passivo
+ || Eventos esportivos || Integram a comunidade universitária à comunidade externa há os passeios ciclísticos e corridas, que ocorrem normalmente uma vez por ano
+UFSC || Eixo Qualidade de Vida || - Acompanhamento de servidores com deficiência - Cartilha Assédio Moral - Campanhas Educativas, Seminários e Cursos - Oferta de cursos aos servidores - Campanha de prevenção e controle da Dengue nos Campi da UFSC - Recuperação Ambiental do Bosque do CFH através de Sistema Agroflorestal - Dia do Servidor Público - 1º Jogos de Integração dos Servidores da UFSC - Ambiental Curitibanos (programa de ação ambiental)
+-----
+
+########## PAGINA 123 ##########
+UFC || 1. Projeto de Qualidade de Vida no Trabalho || Há na UFC uma Coordenadoria de organização e qualidade de vida no trabalho, da Pró-Reitoria de Gestão de Pessoas, que já desenvolve todo o planejamento e execução de ações orientadas para a qualidade de vida no trabalho.
+UFTM || Psicologia Organizacional || Vinculada ao Serviço de Movimentação de Pessoal/Departamento de Desenvolvimento de Pessoal, proporciona aos gestores e servidores um espaço de acolhimento, escuta, intervenções e encaminhamentos de suas demandas funcionais, visando melhorar a qualidade de vida no ambiente de trabalho.
+ || Setor de Capacitação de Pessoal || Dentre as ações realizadas pelo Setor de Capacitação de Pessoal destaca-se a elaboração e execução do Plano Anual de Capacitação (PAC).
+ || NASS – Núcleo de Atenção à Saúde do Servidor || - Orientar servidores em atendimento no NASS na modalidade Sala de Espera - Realizar acompanhamento biopsicossocial dos servidores para avaliar fatores que interferem no processo saúde/doença no trabalho. - Realizar inspeção de segurança do trabalho - Acompanhar as relações de trabalho nos diversos ambientes organizacionais, promovendo o diálogo, mediando conflitos, buscando fortalecer as equipes com soluções satisfatórias para todos. - Promover ações de capacitação que contribuirão para a execução de tarefas, aprimoramento, desenvolvimento e bem-estar dos servidores - Aumentar a participação dos servidores, principalmente docentes, na realização dos exames periódicos realizados pelo NASS por meio de Campanha de Sensibilização e Educação para a Saúde - Vacinar os servidores conforme indicação do Programa Nacional de Imunização - Promover participação no Programa Gera Vida - Promover participação nos Programas Outubro Rosa e novembro Azul - Promover a participação no evento Mostra de Saúde Incentivar a adesão ao Plano de Saúde - Orientar servidores em ações de integração referente à Segurança no Trabalho.
+-----
+
+########## PAGINA 134 ##########
+Gestão da saúde e qualidade de vida ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Implementar ações/programas que visem a qualidade de vida no ambiente de trabalho ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Problema: Necessidade de criar um setor para gestão da saúde e qualidade de vida dos servidores na UFSB. ||  ||  ||  ||  ||  || O que fazer? Criar um setor para gestão da saúde e qualidade de vida dos servidores na UFSB integrado a coordenação de segurança do trabalho. ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Criar um setor de saúde e qualidade de vida dos servidores da UFSB ||  ||  || Curto prazo ||  ||  || Reitoria ||  ||  || Investimento em Função Gratificada (FG) ||  ||  || Setor criado ||  || 
+Alocar os médicos que estão lotados no SAAS para o setor criado ||  ||  || Curto prazo ||  ||  ||  ||  ||  || - ||  ||  || Número de servidores lotados no novo setor ||  || 
+Remanejar ou contratar servidores para este novo setor ||  ||  || Curto a médio prazo ||  ||  ||  ||  ||  || Investimentos na contratação de pessoal ||  ||  || Número de servidores remanejados ou contratados ||  || 
+Gestão dos fatores de risco ocupacionais e promoção de ambientes de trabalho saudáveis ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Implementar ações/programas que visem a qualidade de vida no ambiente de trabalho ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Problema: Necessidade de representantes dos servidores que assegurem uma agenda viva de diagnóstico/ação/ monitoramento das condições ergonômicas de trabalho. ||  ||  ||  ||  ||  || O que fazer? Criar um Comitê de Ergonomia com um grupo de servidores representantes dos técnicos, docentes e terceirizados. ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Abrir um edital para inscrição dos servidores interessados em ||  ||  || Curto prazo ||  ||  ||  ||  ||  || Não se aplica ||  ||  || Edital publicado ||  || 
+-----
+Problema: Necessidade de criar um setor para gestão da saúde e qualidade de vida dos
+servidores na UFSB.
+-----
+O que fazer? Criar um setor para gestão da saúde e qualidade de vida dos
+servidores na UFSB integrado a coordenação de segurança do trabalho.
+-----
+Problema: Necessidade de representantes dos servidores que assegurem uma agenda
+viva de diagnóstico/ação/ monitoramento das condições ergonômicas de trabalho.
+-----
+O que fazer? Criar um Comitê de Ergonomia com um grupo de servidores
+representantes dos técnicos, docentes e terceirizados.
+-----
+
+########## PAGINA 135 ##########
+participar ||  ||  ||  ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho com o Apoio do GT de Qualidade de Vida ||  ||  ||  ||  ||  ||  ||  || 
+Divulgar o edital entre os servidores da UFSB ||  ||  || Curto prazo ||  ||  ||  ||  ||  || Não se aplica ||  ||  || Notícias e chamadas publicadas no site e redes sociais oficiais da UFSB ||  || 
+Realizar um curso de capacitação com conhecimentos sobre Ergonomia - diagnóstico e intervenções ||  ||  || Curto prazo ||  ||  ||  ||  ||  || Não se aplica ||  ||  || Curso realizado ||  || 
+Problema: Necessidade de uma agenda viva de diagnóstico/ação/ monitoramento das condições ergonômicas de trabalho ||  ||  ||  ||  ||  || O que fazer? Realizar reuniões frequentes com o Comitê de Ergonomia. ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Criar um cronograma de reuniões quadrimestrais do Comitê de Ergonomia ||  ||  || Curto prazo (contínuo) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho com o Apoio do GT de Qualidade de Vida ||  ||  || Não se aplica ||  ||  || Cronograma definido ||  || 
+Realizar reuniões seguindo o cronograma definido pelo Comitê de Ergonomia. ||  ||  || Curto prazo (contínuo) ||  ||  ||  ||  ||  || Não se aplica ||  ||  || Número de reuniões realizadas/ano ||  || 
+Problema: Necessidade de conhecer as condições ergonômicas de trabalho ||  ||  ||  ||  ||  || O que fazer? Realizar um diagnóstico das condições ergonômicas de trabalho de servidores do UFSB. ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Realizar uma análise ergonômica por meio da observação dos postos de trabalho ||  ||  || Curto prazo (contínuo) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho com o Apoio do Grupo de Pesquisa ERGOS - profas. Maria Luiza Caires Comper e Graziely Faccin ||  ||  || Investimentos na criação de plataformas digitais ||  ||  || Pesquisa realizada ||  || 
+Realizar avaliação da percepção dos servidores quanto as condições de saúde, trabalho e qualidade de vida ||  ||  || Curto prazo (contínuo) ||  ||  ||  ||  ||  ||  ||  ||  || Avaliação realizada e Publicação das informações, quando pertinentes nos canais institucionais ||  || 
+-----
+Problema: Necessidade de uma agenda viva de diagnóstico/ação/ monitoramento das
+condições ergonômicas de trabalho
+-----
+O que fazer? Realizar um diagnóstico das condições ergonômicas de trabalho
+de servidores do UFSB.
+-----
+
+########## PAGINA 136 ##########
+Problema: Necessidade de implantação das melhorias ergonômicas de trabalho e de programas para a qualidade de vida ||  ||  ||  ||  ||  ||  || O que fazer? A proposição das melhorias ergonômicas e de programas de ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  ||  ||  ||  || qualidade de vida será feita a partir dos diagnósticos realizados e das ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  ||  ||  ||  || sugestões colocadas pelo Comitê de Ergonomia. ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Identificar as necessidades de melhorias ergonômicas ||  ||  || Curto prazo (contínuo) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho, Comitê de Ergonomia, com o Apoio do GT de Qualidade de Vida ||  ||  || Custos operacionais com implementação das melhorias ergonômicas e dos programas de qualidade de vida ||  ||  || Diagnóstico realizado ||  || 
+Identificar os possíveis programas de qualidade de vida a serem implementados na UFSB ||  ||  || Curto prazo (contínuo) ||  ||  ||  ||  ||  ||  ||  ||  || Diagnóstico realizado ||  || 
+Definir um cronograma de prioridades para implementação das melhorias ergonômicas e programas de qualidade de vida ||  ||  || Curto prazo (contínuo) ||  ||  ||  ||  ||  ||  ||  ||  || Implementação das melhorias ergonômicas e dos programas de QVT ||  || 
+Realização de ações voltadas para a saúde e qualidade de vida para os servidores da UFSB ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Implementar ações/programas que visem a qualidade de vida no ambiente de trabalho ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+ || Problema: Necessidade de aumentar a prática corporal e de atividade física entre os ||  ||  ||  ||  ||  || O que fazer? Promover programas e ações educativas de práticas corporais ||  ||  ||  ||  ||  ||  || 
+ || servidores, reduzindo efeitos do comportamento sedentário, estresse e outros. ||  ||  ||  ||  ||  || e atividade física. ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Identificar interesses dos servidores em programas de atividades de práticas corporais e atividade física por meio de formulários ||  ||  || Curtíssimo prazo (contínuo). ||  ||  ||  ||  ||  || Custos operacionais com implementação dos programas de qualidade de vida ||  ||  || Diagnóstico realizado ||  || 
+A partir dos interesses, criar programas de atividades de práticas corporais e atividade física, como exemplo Yoga ||  ||  || Curtíssimo prazo (contínuo) ||  ||  ||  ||  ||  ||  ||  ||  || Número de programas criados e adesão do público ||  || 
+Divulgar os programas de atividades de práticas corporais e atividade física já existentes na universidade. ||  ||  || Curtíssimo prazo (contínuo) ||  ||  ||  ||  ||  ||  ||  ||  || Notícias e chamadas publicadas no site e redes sociais oficiais da UFSB ||  || 
+-----
+Problema: Necessidade de implantação das melhorias ergonômicas de trabalho e de
+programas para a qualidade de vida
+-----
+
+########## PAGINA 137 ##########
+Problema: Necessidade de realização ações de prevenção e controle do tabagismo ||  ||  ||  ||  ||  || O que fazer? Promover ações de prevenção e controle do tabagismo com vistas a redução de danos ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Realizar ações educativas por meio de palestras, cartilhas, vídeos e outras ferramentas com informações sobre o tabagismo e seus impactos na saúde. ||  ||  || Curto prazo (permanente) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho ||  ||  || Custos operacionais de produção dos materiais ||  ||  || Número de palestras realizadas, cartilhas e vídeos produzidos ||  || 
+ || Problema: Necessidade de realização ações de prevenção e controle do uso abusivo de ||  ||  ||  ||  ||  || O que fazer? Promover ações de prevenção e controle do uso abusivo de ||  ||  ||  ||  ||  ||  || 
+ || álcool e outras drogas ||  ||  ||  ||  ||  || álcool e outras drogas com vistas a redução de danos ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Realizar ações educativas por meio de palestras, cartilhas, vídeos e outras ferramentas com informações sobre o álcool e outras drogas e seus impactos na saúde ||  ||  || Curto prazo (permanente) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho ||  ||  || Custos operacionais de produção dos materiais ||  ||  || Número de palestras realizadas, cartilhas e vídeos produzidos ||  || 
+Problema: Necessidade de realizar ações para a promoção de alimentação saudável ||  ||  ||  ||  ||  || O que fazer? Promover ações educativas sobre alimentação saudável ||  ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Identificar interesse pelos servidores sobre temas na área de alimentação e nutrição ||  ||  || Curto prazo (permanente) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho ||  ||  || Não se aplica ||  ||  || Diagnóstico realizado ||  || 
+Realizar ações educativas por meio de palestras, cartilhas, vídeos e outras ferramentas sobre os temas escolhidos. ||  ||  || Curto prazo (permanente) ||  ||  ||  ||  ||  || Custos operacionais de produção dos materiais ||  ||  || Número de palestras realizadas, cartilhas e vídeos produzidos ||  || 
+Prevenção da violência e estímulo à cultura da paz ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Implementar ações/programas que visem a qualidade de vida no ambiente de trabalho ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+-----
+O que fazer? Promover ações de prevenção e controle do tabagismo com
+vistas a redução de danos
+-----
+
+########## PAGINA 138 ##########
+Problema: Necessidade de melhorar a comunicação entre os servidores, especialmente em situações em que a mediação de conflitos é necessária. ||  ||  ||  ||  ||  ||  || O que fazer? Promover ações educativas, treinamentos e oficinas sobre ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  ||  ||  ||  || comunicação e mediação de conflitos. Uma sugestão é a ferramenta de ||  ||  ||  ||  ||  ||  || 
+ ||  ||  ||  ||  ||  ||  || Comunicação não violenta (CNV) ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Promover treinamentos e oficinas sobre comunicação e mediação de conflitos. Uma sugestão é a ferramenta de Comunicação não violenta (CNV) ||  ||  || Curto prazo (permanente) ||  ||  || Coordenação de Saúde e Qualidade de Vida no Trabalho ||  ||  || Custos operacionais de produção de materiais e plataformas de apoio ||  ||  || Treinamentos realizados ||  || 
+Divulgar informações via e-mail ou site institucional sobre comunicação e mediação de conflitos ||  ||  || Curtíssimo prazo (permanente) ||  ||  ||  ||  ||  || Custos operacionais de produção dos materiais ||  ||  || Público alcançado ||  || 
+ || Problema: Valorização da diversidade humana. ||  ||  ||  ||  ||  || O que fazer? Realizar ações de valorização da diversidade humana. ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Contratar especialista em estudos de personalidade ||  ||  || Curto a médio prazo ||  ||  || Reitoria ||  ||  || Investimentos na contratação de pessoal ||  ||  || Número de servidores remanejados ou contratados ||  || 
+Realizar estudos de personalidade, destacando o potencial do trabalho colaborativo em equipes heterogêneas ||  ||  || Curto prazo (permanente) ||  ||  || Coordenação de Saúde e QVT com apoio de órgãos colegiados, como a CPAF e o PPGER, e grupos de pesquisa e extensão. ||  ||  || Não se aplica ||  ||  || Diagnóstico realizado ||  || 
+Fortalecer os debates sobre diversidade étnico-racial, sexual e de gênero ||  ||  || Curto a médio prazo (permanente) ||  ||  ||  ||  ||  || Custos operacionais de produção dos materiais ||  ||  || Público alcançado ||  || 
+ || Problema: Necessidade de estimular o contínuo desenvolvimento de habilidades sociais e ||  ||  ||  ||  ||  || O que fazer? Realizar programas e ações educativas permanentes focadas ||  ||  ||  ||  ||  ||  || 
+ || do trabalho ||  ||  ||  ||  ||  || no desenvolvimento de habilidades sociais e do trabalho ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Realizar treinamentos focados no desenvolvimento das ||  ||  || Curto prazo ||  ||  || Setor de ||  ||  || Previsão no PDP ||  ||  || Público alcançado ||  || 
+-----
+Problema: Necessidade de melhorar a comunicação entre os servidores, especialmente
+em situações em que a mediação de conflitos é necessária.
+-----
+
+########## PAGINA 139 ##########
+competências de sociabilidade. Abordando as inteligências intrapessoal e interpessoal, através de ferramentas como a exemplo da Meditação e da Comunicação Não Violenta. ||  ||  || (permanente) ||  ||  || Capacitação (PROGEPE) ||  ||  ||  ||  ||  ||  ||  || 
+ || Problema: Necessidade de apoiar os servidores em envelhecimento com preparação para ||  ||  ||  ||  ||  || O que fazer? Estabelecer um programa de preparação para transição e ||  ||  ||  ||  ||  ||  || 
+ || a aposentadoria ||  ||  ||  ||  ||  || aposentadoria ||  ||  ||  ||  ||  ||  || 
+ || Ações ||  ||  || Prazo ||  ||  || Responsáveis ||  ||  || Recursos Financeiros ||  ||  || Indicadores || 
+Elaborar um documento orientador com informações sobre direitos e possibilidades de preparação para a aposentadoria ||  ||  || Curto prazo ||  ||  || Setor de Pagamento (PROGEPE), Coordenação de Saúde e Qualidade de Vida no Trabalho e Gestores envolvidos, com o apoio dos Sindicatos de servidoras(es) ||  ||  || Não se aplica ||  ||  || Documento publicado ||  || 
+Reuniões com ações de orientação e preparatórias para nova etapa ||  ||  || Curto prazo ||  ||  ||  ||  ||  || Não se aplica ||  ||  || Público alcançado ||  || 
+-----
+
+########## PAGINA 144 ##########
+Agroecologia ||  ||  ||  ||  ||  || 
+Objetivo: Identificar como a universidade aborda a temática agroecológica nas suas ações de ensino, pesquisa e extensão e promover ações relativas que ampliem essa temática na formação acadêmica e profissional ofertada pela Instituição ||  ||  ||  ||  ||  || 
+Foco estratégico: Consolidar, fortalecer e ampliar a Agroecologia em suas ações no âmbito dos PPCs dos cursos de graduação da área de Ciências Ambientais, Ciências Agrárias e Licenciaturas da área de Ciências da Natureza e Ciências Humanas e Sociais ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não-financeiros ||  || 
+Em pelo menos um dos eixos da formação geral, inserir a apresentação de princípios da Agroecologia. || Curto prazo || Unidades Acadêmicas e PROGEAC || Carga horária de dedicação das equipes ||  ||  || Ementa de um CC da Formação Geral que contemple as reflexões sobre Agroecologia nos PPCs dos cursos de graduação
+Tornar obrigatório um CC de Introdução à Agroecologia na formação de graduação nas áreas de Ciências Ambientais, Ciências Agrárias e Ciências Humanas e Sociais. || Curto prazo || Unidades Acadêmicas com cursos nas áreas indicadas e PROGEAC || Carga horária de dedicação das equipes ||  ||  || Ementa de um CC de Introdução à Agroecologia na matriz curricular de PPCs dos cursos de graduação nas áreas de Ciências Ambientais, Ciências Agrárias e Ciências Humanas e Sociais
+Tornar obrigatório um CC de Introdução à Agroecologia na formação das Licenciaturas Interdisciplinares em Ciências da Natureza e suas Tecnologias e Licenciaturas Interdisciplinares em Ciências Humanas e Sociais e suas Tecnologias || Curto prazo || IHACs e PROGEAC || Carga horária de dedicação das equipes ||  ||  || Ementa de um CC de Introdução à Agroecologia na matriz curricular de PPCs das LIs em Ciências da Natureza e suas Tecnologias e Ciências Humanas e Sociais e suas
+-----
+Foco estratégico: Consolidar, fortalecer e ampliar a Agroecologia em suas ações no âmbito dos PPCs dos cursos de graduação da área de Ciências Ambientais, Ciências
+Agrárias e Licenciaturas da área de Ciências da Natureza e Ciências Humanas e Sociais
+-----
+
+########## PAGINA 145 ##########
+ ||  ||  ||  ||  ||  || Tecnologias
+Foco estratégico: Fortalecer o desenvolvimento das pesquisas científicas e da extensão sobre Agroecologia ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não-financeiros ||  || 
+Inserir três CCs optativos de Agroecologia nos Programas de Pós-graduação Stricto Sensu nas áreas de Ciências Ambientais, Ciências Agrárias, Ciências Humanas e Sociais e Educação, como uma forma de incentivar a pesquisa com este tema na UFSB. || Curto prazo || Unidades Acadêmicas com a oferta (ou previsão) de cursos de pós-graduação nas áreas indicadas e PROPPG || Carga horária de dedicação das equipes ||  ||  || Ementas de três CCs optativos de Agroecologia, na matriz curricular de Programas de Pós-graduação Stricto Sensu nas áreas de Ciências Ambientais, Ciências Agrárias, Ciências Humanas e Sociais e Educação
+Fortalecer a oferta e criação de Pós-graduação Lato Sensu com a temática Agroecológica || Curto a médio prazo || PROPPG, IHACs e CFs associados às áreas de conhecimento relacionadas à Agroecologia || Investimentos na promoção de editas de apoio à pós-graduação Lato Sensu. Carga horária de dedicação das equipes ||  ||  || Incentivos aos cursos existentes (editais de apoio à pós-graduação Lato Sensu). Aprovação e implantação de quatro propostas de Especialização e ou Residência com a temática Agroecológica.
+Promover e/ou apoiar eventos técnicos e científicos com o tema Agroecologia || Curto prazo (permanente) || ASSUS, PROEX, PROPPG, Unidades Acadêmicas, com apoio dos cursos de graduação e pós- graduação e grupos de pesquisa e extensão || Carga horária de dedicação das equipes. Custos do investimento na logística de realização do(s) evento(s) ||  ||  || Realização de, ao menos, um evento técnico e científicos com o tema Agroecologia por ano.
+Promover dois editais internos com apoio financeiro e de bolsas voltados à promoção da Agroecologia em Programas da PROAF e/ou PROEX || Curto a médio prazo (permanente) || PROAF e PROEX || Carga horária de dedicação das equipes. Dotação orçamentária para viabilização dos ||  ||  || Publicação dos editais internos voltados à promoção da Agroecologia pela PROAF e/ou PROEX. Público Alcançado.
+-----
+
+########## PAGINA 146 ##########
+ ||  ||  || editais. ||  ||  || 
+Objetivo: Propor e promover ações relativas que integrem as bases e princípios agroecológicos na gestão administrativa e acadêmica ||  ||  ||  ||  ||  || 
+Foco estratégico: Estimular e fortalecer o conhecimento sobre Agroecologia, Saúde e Segurança Alimentar e Nutricional ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não-financeiros ||  || 
+Realizar capacitação para 100% dos gestores dos setores administrativos sobre Agroecologia, Saúde e Segurança Alimentar e Nutricional || Curto prazo e permanente || PROGEPE, CQV/PROAF, com apoio da ASSUS, CPS e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. Custos do investimento na logística de realização do(s) evento(s) ||  ||  || Percentual de gestores dos setores administrativos capacitados
+Realizar capacitação para servidoras(es), colaboradoras(es) e discentes da UFSB sobre Agroecologia, Saúde e Segurança Alimentar e Nutricional || Curto prazo e permanente || PROGEPE, CQV / PROAF, Coord. de Apoio Administrativo dos Campi, Conselhos Gestores dos Campi, com apoio da ASSUS, CPS e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. Custos do investimento na logística de realização do(s) evento(s) ||  ||  || Público alcançado pelas capacitações
+Ofertar capacitações para a sociedade sul-baiana sobre Agroecologia, Saúde e Segurança Alimentar e Nutricional || Curto prazo e permanente || ASSUS, CPS, PROEX com apoio de servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. Custos do investimento na logística do(s) evento(s) ||  ||  || Público alcançado pelas capacitações
+Instalar e manter uma horta agroecológica com gestão coletiva da comunidade universitária em cada campus || Curto a médio prazos e permanente || Coordenações de Apoio Administrativo dos Campi, Conselhos || Carga horária de dedicação das equipes. Custos do investimento ||  ||  || Hortas instaladas e mantidas. Público alcançado
+-----
+
+########## PAGINA 147 ##########
+ ||  || Gestores dos Campi, com o apoio da ASSUS, CPS, PROAF, PROPA e servidoras(es) com expertise no tema || na logística e operação das hortas || 
+Promover a instalação das hortas comunitárias e associação a cozinha/áreas comunitárias para estímulo ao consumo dos itens produzidos nas hortas. || Curto a médio prazos e permanente || Coordenações de Apoio Administrativo dos Campi, Conselhos Gestores dos Campi, com o apoio da ASSUS, CPS, PROAF e PROPA || Carga horária de dedicação das equipes. Custos do investimento na construção, na logística e operação das áreas/cozinhas comunitárias || Áreas/cozinhas comunitárias construídas e operantes. Público alcançado
+Incluir cláusulas nos contratos de cessão de espaços da UFSB e de aquisição de alimentos que tenham a exigência de fornecimento de 100% dos alimentos não industrializados provenientes da agricultura familiar, preferencialmente de base agroecológica. || Médio prazo || Assessoria Jurídica, PROAF, PROPA || Não se aplica || Percentual de contratos novos com cláusulas indicativas de fornecimento 100% dos alimentos não industrializados, oriundos da agricultura familiar, especialmente de base agroecológica
+Incluir cláusulas nos contratos de cessão de espaços da UFSB que estimulem a participação de coletivos e cooperativas que estejam estruturadas no fornecimento de alimentos provenientes da agricultura familiar, preferencialmente de base agroecológica || Médio prazo || Assessoria Jurídica, PROAF, PROPA || Não se aplica || Percentual de contratos novos com cláusulas indicativas do estímulo aos coletivos e cooperativas com expertise com alimentos oriundos da agricultura familiar, preferencialmente de base agroecológica
+Oferecer 100% dos alimentos não industrializados em todos os refeitórios dos três campi da UFSB, provenientes da agricultura familiar, preferencialmente de base agroecológica || Médio prazo || PROAF, PROPA || Não se aplica || Contratos assinados com fornecedores que tenham expertise com alimentos provenientes da agricultura familiar, preferencialmente de base agroecológica
+-----
+
+########## PAGINA 148 ##########
+Anualmente, promover Feiras Agroecológicas nos três campi ou em espaços mais acessíveis ao público ||  || Curto prazo || ASSUS, PROAF, PROEX, Conselhos Gestores dos Campi || Carga horária de dedicação das equipes. Custos do investimento na logística e operação das Feiras ||  ||  || Edições das Feiras promovidas. Público alcançado || 
+ || Foco estratégico: Estimular a criação de redes-colaborativas em torno de eixos temáticos. Agroecologia, Gestão de Bacias Hidrográficas, Gestão de Resíduos Sólidos e ||  ||  ||  ||  ||  ||  || 
+ || outros temas do PLS ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores || 
+ ||  ||  ||  ||  || e não-financeiros ||  ||  || 
+Fomentar o estabelecimento de acordos de cooperação técnica/parcerias com grupos de pesquisa externos à UFSB e/ou instituições e organizações da sociedade civil que atuam no território com o tema da Agroecologia ||  || Curto a médio prazo (permanente) || ASSUS, DIRPLAN, PROEX, PROPPG e Unidades Acadêmicas || Carga horária de dedicação das equipes. ||  ||  || Acordos de Cooperação Técnica firmados. Projetos desenvolvidos em parcerias e/ou em rede. || 
+Criar um fórum permanente de trocas de experiências e fomento de parcerias entre grupos de ensino, pesquisa e extensão interno. ||  || Curto prazo || ASSUS, PROAF, PROEX, PROGEAC, PROPPG, Unidades Acadêmicas || Carga horária de dedicação das equipes. ||  ||  || Público alcançado. Fluxos de informações, organizados em relatórios e projetos de ensino pesquisa e extensão intercampi || 
+Foco estratégico: Promover ações de divulgação sobre Agroecologia, Saúde e Segurança Alimentar e Nutricional ||  ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores || 
+ ||  ||  ||  ||  || e não-financeiros ||  ||  || 
+Criar e divulgar vinhetas curtas no portal eletrônico da UFSB familiarizando a comunidade acadêmica com diversos tópicos associados à Agroecologia presentes no dia a dia da Universidade ||  || Curto prazo || ACS, ASSUS, CPS, PROEX, Unidades Acadêmicas, com o apoio de servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. ||  ||  || Vinhetas publicadas no portal eletrônico da UFSB. Público alcançado. Público alcançado || 
+Promover a divulgação de conteúdos sobre Agroecologia ||  || Curto prazo || ACS, com o apoio da || Carga horária de ||  ||  || Cards e notícias sobre || 
+-----
+
+########## PAGINA 149 ##########
+nas mídias sociais da UFSB, como por exemplo, a divulgação sobre as atividades de ensino, pesquisa e extensão associadas ao tema e realizadas na instituição ||  || ASSUS, CPS, PROEX, Unidades Acadêmicas e servidoras(es) com expertise no tema || dedicação das equipes. || Agroecologia publicadas nas redes sociais da UFSB. Público alcançado
+Promoção dos aspectos da Agroecologia para uma alimentação saudável na UFSB a partir de apresentações em eventos institucionais, como Semana de Acolhimento de Estudantes e Seminário em Rede da UFSB. || Curto prazo || ASSUS, CPS, PROAF, PROGEAC, PROEX, Unidades Acadêmicas, com o apoio de servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. || Vídeos, notícias e demais intervenções sobre Agroecologia apresentadas nos eventos institucionais. Público alcançado
+Exibição de filmes ficcionais e documentários sobre Agricultura Familiar e Agroecologia pelos cineclubes da UFSB || Curto prazo || CFAC, com apoio da ASSUS, CPF, PROEX e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. || Filmes exibidos nos Cineclubes da UFSB. Público alcançado
+Promover campanhas e eventos em datas comemorativas relacionadas à Agroecologia19 || Curto prazo || ACS, ASSUS, CPF, PROAF, PROEX, PROPPG, com apoio da PROGEAC, PROGEPE e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. || Campanhas realizadas e público alcançado
+-----
+
+########## PAGINA 157 ##########
+Projetos de Arquitetura de Reformas de Edificações Existentes ||  ||  ||  ||  ||  || 
+Objetivo: vegetalização do terreno e promoção da biodiversidade, transporte, água, tratamento de efluentes, eficiência energética e materiais ||  ||  ||  ||  ||  || 
+Foco estratégico: diretrizes da arquitetura sustentável na UFSB ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Construir um barema com base nas diretrizes elencadas neste documento, normas, processos de certificação e outros || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Barema construído. Sistema de pontuação definido
+Utilizar o barema para medir a qualidade e desempenho ambiental dos projetos de reforma || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Barema sendo utilizado
+Foco estratégico: promoção da biodiversidade20 ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Aumentar a cobertura vegetal do entorno imediato às edificações, priorizando espécies nativas || Médio a longo prazo || DINFRA com o apoio da Coord. de Apoio Administrativo dos Campi || Carga horária de dedicação das equipes. Recursos para investimentos em mudas ||  ||  || Porcentagem de área verde em relação à área total do terreno. Número de mudas plantadas (arbóreas e arbustivas)
+-----
+
+########## PAGINA 158 ##########
+Realização de inventário das espécies botânicas encontradas no terreno || Médio a longo prazo || DINFRA com o apoio do JB FLORAS e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. Recursos para atividades de campo ||  ||  || Inventário realizado
+Foco estratégico: mobilidade de pessoal ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Incentivar o uso de meios de deslocamentos mais limpos a partir da instalação e manutenção de bicicletários nos campi || Médio a longo prazo || DINFRA e DIRAD com o apoio da Coord. de Apoio Administrativo dos Campi || Investimentos para instalação e manutenção dos bicicletários ||  ||  || Bicicletários instalados. Público alcançado
+Negociar com os órgãos competentes a implantação ou ampliação de linhas de transporte coletivo para os campi e Colégios Universitários || Curto a médio prazo || Conselhos Gestores dos Campi || Carga horária de dedicação das equipes ||  ||  || Linhas de transporte público em operação. Público alcançado
+Criar campanhas de estímulo ao uso de transporte coletivo e caronas || Curto prazo (permanente) || ASSUS e ACS || Carga horária de dedicação das equipes ||  ||  || Peças publicados nas redes oficiais da UFSB
+Construir abrigos para o embarque e desembarque do transporte coletivo e/ou pontos da carona solidária nas áreas de cessão da UFSB || Médio a longo prazo || DINFRA e Coord. de Apoio Administrativo dos Campi || Investimentos para a construção e manutenção de abrigos ||  ||  || Número de abrigos construídos. Público alcançado
+Foco estratégico: consumo de água e tratamento de efluentes21 ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Reduzir o consumo de água potável a partir da instalação de || Curto a médio prazo || DINFRA com o apoio da || Investimentos na ||  ||  || Número de equipamentos
+-----
+
+########## PAGINA 159 ##########
+equipamentos de alto desempenho nos sanitários ||  || Coord. de Apoio Administrativo dos Campi || aquisição dos equipamentos eficientes ||  ||  || eficientes instalados. Controle das taxas mensais de consumo de água
+Reduzir o consumo de água potável a partir da captação e reutilizar a água da chuva || Médio a longo prazo || DINFRA || Investimentos para a execução da obra ||  ||  || Volume de água de chuva recuperado e utilizado. Proporção entre água de chuva e água potável utilizadas
+Reduzir o consumo de água potável a partir do controle mediado por um sistema de gestão ambiental22 || curto a médio prazo || DINFRA, PROTIC, ASSUS || Carga horária de servidora(o) dedicado ao SIGS-UFSB ||  ||  || Sistema operante.
+Realizar diagnósticos sobre a viabilidade e projetar soluções para instalação de sistema de tratamento ecológico de resíduos sanitários nas edificações existentes || curto a médio prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Diagnóstico realizado
+Foco estratégico: Adequação da eficiência energética das edificações ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Classificar as edificações existentes de acordo com o barema proposto sobre o tema da eficiência energética || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Diagnóstico realizado
+Projetar e executar, quando necessário, intervenções que adequem os níveis de eficiência energética aos indicadores || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Obras executadas
+Elaborar projeto de retrofit23 das edificações com pontuação inferior ao recomendado no barema || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Projetos elaborados
+-----
+
+########## PAGINA 160 ##########
+Executar obras de retrofit || Médio a longo prazo || DINFRA || Carga horária das equipes. Investimentos para execução da obra ||  ||  || Obras executadas
+Foco estratégico: Uso, reciclagem e descarte de matérias ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Buscar utilizar materiais observando as seguintes condicionantes: descartar materiais proibidos; observar a energia incorporada na fabricação; se é reciclável, reaproveitável, renovável; qual a geração e gestão de resíduos quanto à sua aplicação em obra; se apresenta bom nível de conforto lumínico, conforto térmico, certificação e rotulagem; qual o nível de emissões de CO na fabricação; transporte. 2 || Curto a médio prazo || DINFRA, DIRAD || Carga horária de dedicação das equipes ||  ||  || Uso de produtos de baixo impacto ambiental.
+Pesquisar informações dos fabricantes para identificar produtos de baixo impacto ambiental. || Curto a médio prazo || DINFRA, DIRAD || Carga horária de dedicação das equipes ||  ||  || Uso de produtos de baixo impacto ambiental.
+-----
+Projetos de Arquitetura de Novas Edificações ||  ||  ||  ||  ||  || 
+Objetivo: vegetalização do terreno e promoção da biodiversidade, transporte, água, tratamento de efluentes, eficiência energética e materiais ||  ||  ||  ||  ||  || 
+Foco estratégico: diretrizes da arquitetura sustentável para as novas edificações da UFSB ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Construir um barema com base nas diretrizes elencadas neste || Médio a longo prazo || DINFRA || Carga horária de ||  ||  || Barema construído.
+-----
+
+########## PAGINA 161 ##########
+documento, normas, processos de certificação e outros para as novas edificações ||  ||  || dedicação das equipes ||  ||  || Sistema de pontuação definido
+Utilizar o barema para medir a qualidade e desempenho ambiental das novas edificações || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Barema sendo utilizado
+Foco estratégico: promoção da biodiversidade24 ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Manter vegetação em ao menos 20% da área do terreno, priorizando espécies nativas nos projetos paisagísticos || Médio a longo prazo || DINFRA || Carga horária de dedicação das equipes. Recursos para investimentos em mudas ||  ||  || Porcentagem de área verde em relação à área total do terreno. Número de mudas plantadas (arbóreas e arbustivas)
+Realização de inventário das espécies botânicas encontradas no terreno || Médio a longo prazo || DINFRA com o apoio do JB FLORAS e servidoras(es) com expertise no tema || Carga horária de dedicação das equipes. Recursos para atividades de campo ||  ||  || Inventário realizado
+Foco estratégico: mobilidade de pessoal ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Incentivar o uso de meios de deslocamentos mais limpos a partir da instalação e manutenção de bicicletários nos campi || Médio a longo prazo || DINFRA e ASSUS com o apoio da Coord. de Apoio Administrativo dos Campi || Investimentos para instalação e manutenção dos bicicletários ||  ||  || Bicicletários instalados. Público alcançado
+-----
+
+########## PAGINA 162 ##########
+Negociar com os órgãos competentes a implantação de linhas de transporte coletivo para as áreas com novas edificações || Curto a médio prazo || Conselhos Gestores dos Campi || Carga horária de dedicação das equipes ||  ||  || Número de linhas de transporte público em operação. Público alcançado
+Construir abrigos para o embarque e desembarque do transporte coletivo e/ou pontos da carona solidária nas áreas de cessão da UFSB || Médio a longo prazo || DINFRA e Coord. de Apoio Administrativo dos Campi || Investimentos para a construção e manutenção de abrigos ||  ||  || Número de abrigos construídos. Público alcançado
+Foco estratégico: consumo de água e tratamento de efluentes25 ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Reduzir o consumo de água potável a partir da instalação de equipamentos de alto desempenho nos sanitários || Curto a médio prazo || DINFRA com o apoio da Coord. de Apoio Administrativo dos Campi || Investimentos na aquisição dos equipamentos eficientes ||  ||  || Número de equipamentos eficientes instalados. Controle das taxas mensais de consumo de água
+Reduzir o consumo de água potável a partir da captação e reutilizar a água da chuva || Médio a longo prazo || DINFRA || Investimentos para a execução da obra ||  ||  || Volume de água de chuva recuperado e utilizado. Proporção entre água de chuva e água potável utilizadas
+Reduzir o consumo de água potável a partir do controle mediado por um sistema de gestão ambiental26 || curto a médio prazo || DINFRA, PROTIC, ASSUS || Carga horária de servidora(o) dedicado à construção e manutenção do sistema ||  ||  || Sistema operante.
+Inserir sistema de tratamento ecológico de resíduos sanitários para as novas edificações || curto a médio prazo || DINFRA || Investimentos na execução das obras ||  ||  || Projetos desenvolvidos. Sistemas de tratamento
+-----
+
+########## PAGINA 163 ##########
+ ||  ||  ||  ||  ||  || ecológico de resíduos sanitários executados
+Foco estratégico: eficiência energética das edificações ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Utilizar barema com indicadores para as boas práticas sobre eficiência energética apresentadas neste documento || curto a médio prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Sistema de pontuação definido. Barema sendo utilizado
+Projetar as novas edificações de modo a atender a pontuação recomendada para eficiência energética. || curto a médio prazo || DINFRA || Carga horária de dedicação das equipes ||  ||  || Projetos de novas edificações com pontuação adequada sobre eficiência energética
+Empregar fontes alternativas de energia nos projetos de novas edificações, no que tange a sua geração, e de maior eficiência, no que tange o consumo || médio a longo prazo || DINFRA || Investimentos na execução das obras e aquisição dos equipamentos ||  ||  || Projetos executados. Quantidade de energia gerada e consumida a partir de fontes alternativas
+Foco estratégico: Uso, reciclagem e descarte de matérias ||  ||  ||  ||  ||  || 
+Ações || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores
+ ||  ||  ||  || e não financeiros ||  || 
+Buscar utilizar materiais observando as seguintes condicionantes: descartar materiais proibidos; observar a energia incorporada na fabricação; se é reciclável, reaproveitável, renovável; qual a geração e gestão de resíduos quanto à sua aplicação em obra; se apresenta bom nível de conforto lumínico, conforto térmico, certificação e rotulagem; qual o nível de emissões de CO na fabricação; transporte. 2 || Curto a médio prazo || DINFRA, DIRAD || Carga horária de dedicação das equipes ||  ||  || Uso de produtos de baixo impacto ambiental.
+-----
+
+########## PAGINA 164 ##########
+Pesquisar informações dos fabricantes para identificar produtos de baixo impacto ambiental. || Curto a médio prazo || DINFRA, DIRAD || Carga horária de dedicação das equipes || Uso de produtos de baixo impacto ambiental.
+-----
+
+########## PAGINA 169 ##########
+Quadro VIII.1- Projetos de Pesquisa cadastrados no Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA-UFSB) no período de 2016 a set-2021. ||  ||  ||  ||  ||  || 
+Unidade Acadêmica || Projetos || % || Projetos em Biodiversidade ||  || Projeto com a palavra || 
+ ||  ||  ||  ||  || Biodiversidade no || 
+ ||  ||  ||  ||  || título || 
+Instituto de Humanidades, Artes e Ciências (CJA) || 103 || 10% || 20 || 0 ||  || 
+Instituto de Humanidades, Artes e Ciências (CSC) || 140 || 14% || 18 || 1 ||  || 
+Instituto de Humanidades, Artes e Ciências (CPF) || 161 || 15% || 37 || 0 ||  || 
+Centro de Formação em Artes e Comunicação (CFAC) || 53 || 5% || 0 || 0 ||  || 
+Centro de Formação em Ciências Agroflorestais (CFCAf) || 118 || 11% || 72 || 0 ||  || 
+Centro de Formação em Ciências Ambientais (CFCAm) || 139 || 13% || 74 || 5 ||  || 
+Centro de Formação em Ciências Humanas e Sociais (CFCHS) || 132 || 13% || 2 || 0 ||  || 
+Centro de Formação em Desenvolvimento Territorial (CFDT)* || 21 || 2% || 8 || 0 ||  || 
+Centro de Formação em Políticas Públicas e Tecnologias Sociais (CFPPTS)* || 24 || 2% || 2 || 0 ||  || 
+Centro de Formação em Ciências da Saúde (CFCS) || 82 || 8% || 6 || 0 ||  || 
+-----
+Quadro VIII.1- Projetos de Pesquisa cadastrados no Sistema Integrado de Gestão de Atividades
+Acadêmicas (SIGAA-UFSB) no período de 2016 a set-2021.
+-----
+Projetos em
+Biodiversidade
+-----
+
+########## PAGINA 170 ##########
+Centro de Formação em Tecno-Ciências e Inovação (CFTCI) || 77 || 7% || 17 || 0
+TOTAL || 1050 || 100% || 256 (24,38%) || 6 (0,57%)
+-----
+
+########## PAGINA 171 ##########
+Quadro VIII.2- Projetos de Extensão cadastrados no Sistema Integrado de Gestão (SIG) da Universidade Federal do Sul da Bahia (UFSB) no período de 2016 a out-2021. ||  ||  ||  ||  ||  || 
+Unidade Acadêmica || Projetos || % || Projetos em Biodiversidade ||  || Projeto com a palavra || 
+ ||  ||  ||  ||  || Biodiversidade no || 
+ ||  ||  ||  ||  || título || 
+Instituto de Humanidades, Artes e Ciências (CJA) || 28 || 14 || 4 || 1 ||  || 
+Instituto de Humanidades, Artes e || 25 || 13 || 2 || 0 ||  || 
+-----
+Quadro VIII.2- Projetos de Extensão cadastrados no Sistema Integrado de Gestão (SIG) da
+Universidade Federal do Sul da Bahia (UFSB) no período de 2016 a out-2021.
+-----
+Projetos em
+Biodiversidade
+-----
+
+########## PAGINA 172 ##########
+Ciências (CSC) ||  ||  ||  || 
+Instituto de Humanidades, Artes e Ciências (CPF) || 47 || 24 || 7 || 0
+Centro de Formação em Artes e Comunicação (CFAC) || 14 || 7 || 0 || 0
+Centro de Formação em Ciências Agroflorestais (CFCAf) || 4 || 2 || 2 || 0
+Centro de Formação em Ciências Ambientais (CFCAm) || 12 || 6 || 5 || 0
+Centro de Formação em Ciências Humanas e Sociais (CFCHS) || 19 || 10 || 0 || 0
+Centro de Formação em Desenvolvimento Territorial (CFDT)* || 2 || 1 || 0 || 0
+Centro de Formação em Políticas Públicas e Tecnologias Sociais (CFPPTS)* || 6 || 3 || 0 || 0
+Centro de Formação em Ciências da Saúde (CFCS) || 35 || 18 || 1 || 0
+Centro de Formação em Tecno-Ciências e Inovação (CFTCI) || 6 || 3 || 0 || 0
+TOTAL || 198 || 100 || 21 (10,6 %) || 0,5%
+-----
+
+########## PAGINA 179 ##########
+Biodiversidade nos Campi ||  ||  ||  ||  ||  ||  ||  || 
+Objetivo: Promover o conhecimento da Biodiversidade, através de um diagnóstico ambiental nos Campi e investir no enriquecimento de espécies da UFSB como forma de conservar a biodiversidade em nível local e estimular ações integradas regionais. ||  ||  ||  ||  ||  ||  ||  || 
+ || Focos estratégicos: Conhecer e monitorar a biodiversidade existente nos campi da UFSB, recuperar áreas degradadas como estratégia de estimular a riqueza e abundância ||  ||  ||  ||  ||  ||  || 
+ || de espécies, criar estratégias de comunicação com a comunidade sobre a importância da biodiversidade, e propor ações voltadas à sustentabilidade local e regional. ||  ||  ||  ||  ||  ||  || 
+Ações ||  || Prazo || Responsáveis ||  || Recursos financeiros ||  || Indicadores || 
+ ||  ||  ||  ||  || e não-financeiros ||  ||  || 
+Estimular servidores docentes e técnicos-administrativos a realizarem atividades práticas com os estudantes que contribuam para o conhecimento e a valorização da biodiversidade dos campi ||  || Curtíssimo prazo (permanente) || Unidades acadêmicas, ASSUS, DINFRA, PROGEAC, PROAF, Coordenações de Apoio Administrativo, ASSUS, Conselhos Gestores dos Campi || Carga horária das equipes envolvidas e investimentos na logística de realização das atividades ||  ||  || Ações realizadas e público alcançado. || 
+Promover campanhas de educação relacionadas à importância da conservação da biodiversidade, em especial para as espécies da fauna e flora presentes nos campi, tais como campanhas contra a manutenção de espécies da fauna em cativeiro, campanha que esclareça sobre o perigo da introdução de espécies exóticas em ambientes naturais, dentre outras ||  || Curto prazo (permanente) || ASSUS, ACS, CPS, CEUA, Unidades Acadêmicas, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas ||  ||  || Ações realizadas e público alcançado. || 
+-----
+
+########## PAGINA 180 ##########
+Organizar ações intercampi em datas comemorativas a saber: semana do meio ambiente, dia da árvore, dia da Mata Atlântica, entre outras || Curto prazo (permanente) || ASSUS, CPS, PROEX, PROPPG, Unidades Acadêmicas, Conselhos Gestores dos Campi, servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Ações realizadas e público alcançado.
+Incluir cláusulas nos contratos e processos de licitação sobre infraestrutura da UFSB que estimulem as prestadoras de serviço a atender diretrizes sobre o cuidado à biodiversidade local || Curto prazo || Assessoria Jurídica, DINFRA, DIRAD || Não se aplica || Percentual de contratos novos com cláusulas indicativas do estímulo à atenção de diretrizes sobre o cuidado à biodiversidade local
+Inserir nos projetos de paisagismo a diretriz de utilizar, preferencialmente, espécies nativas da Mata Atlântica, sobretudo aquelas que ocorrem naturalmente nas regiões Sul e Extremo Sul da Bahia || Curtíssimo prazo || DINFRA, Seção de Meio Ambiente da DINFRA, Jardim Botânico FLORAS || Não se aplica || Percentual de projetos novos com cláusulas indicativas da inclusão da diretriz
+Nos projetos paisagísticos da UFSB, priorizar a adoção de espécies que estabeleçam relações ecológicas tais como plantas atrativas da avifauna e abelhas, plantas com conhecidos benefícios aos atributos do solo, árvores que servem de abrigo para animais, inseticidas naturais etc. || Curto a médio prazo || DINFRA, Seção de Meio Ambiente da DINFRA, Jardim Botânico FLORAS || Não se aplica || Percentual de projetos novos com cláusulas indicativas da inclusão da diretriz
+Estimular o incremento na produção de mudas de espécies nativas nos viveiros da UFSB, tais como o Viveiro do Jardim Botânico FLORAS (CSC) e os viveiros dos demais Campi da UFSB, bem como incentivar as parcerias com viveiros locais || Curto prazo || ASSUS, DIRPLAN, DIRAD, DINFRA, Jardim Botânico FLORAS || Investimentos na logística e operação dos viveiros da UFSB || Produção de mudas pelos viveiros da UFSB. Acordos de cooperação assinados com viveiros locais
+Utilizar os diversos espaços já existentes na UFSB, como Jardim Botânico, Centros de Formação, grupos de pesquisa, entre outros, como divulgadores de ações ambientais pela biodiversidade e em cada unidade || Curto a médio prazo || ASSUS, Unidades acadêmicas, Conselhos Gestores dos Campi, Jardim Botânico FLORAS || Carga horária das equipes envolvidas || Público alcançado
+-----
+
+########## PAGINA 181 ##########
+Planejar estratégias de sistematização e divulgação de resultados alcançados nas ações || Curto prazo (permanente) || ACS, ASSUS || Carga horária das equipes envolvidas || Peças de divulgação. Público alcançado
+Promover atividades de campo, em parceria com os Cursos de Ciências, a fim de identificar e etiquetar espécies nativas e/ou exóticas de plantas nas áreas dos campi || Curto a médio prazo || Colegiados e Centros Acadêmicos dos Cursos, Coordenações de projetos de pesquisa e extensão, JB Floras || Carga horária das equipes envolvidas. Investimentos em materiais necessários para a identificação e etiquetagem || Número de plantas identificadas. Público alcançado
+Elaborar um banco de projetos para Bolsa de Apoio à Permanência com possíveis orientadores, relacionados às atividades previstas no PLS de Biodiversidade || Curtíssimo a curto prazo || ASSUS, PROAF || Carga horária das equipes envolvidas || Projetos cadastrados. Bolsas BAPs concedidas aos projetos cadastrados
+Realizar ações que visem a elaboração de planos de ação participativos sobre o tema da biodiversidade na UFSB || Curto a médio prazo || ASSUS, CPS, Coordenações de Apoio Administrativo dos Campi, Unidades Acadêmicas, JB Floras || Carga horária das equipes envolvidas || Planos elaborados. Público alcançado.
+Elaboração de portfólio gráfico com temas diversos relacionados à biodiversidade (conhecimento disponível, conservação e preservação do patrimônio natural) a serem disponibilizadas no portal oficial da UFSB27 || Curto a médio prazo || ASSUS, ACS, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Peças publicadas. Público alcançado
+Elaboração de portfólio gráfico com temas diversos sobre biodiversidade (conhecimento disponível, conservação e preservação do patrimônio natural) para publicação no || Curto a médio prazo || ASSUS, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Peças publicadas. Público alcançado
+-----
+
+########## PAGINA 182 ##########
+espaço oficial do PLS-UFSB no portal da UFSB28 ||  ||  ||  || 
+Elaboração de portfólio gráfico com temas diversos relacionados à biodiversidade (conhecimento disponível, conservação e preservação do patrimônio natural) a serem disponibilizadas nas redes sociais oficiais da UFSB29 || Curto a médio prazo || ASSUS, ACS, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Peças publicadas. Público alcançado
+Editoria UFSB: identificar e promover a maior inserção de docentes, técnicos e discentes que realizam estudos relacionados à biodiversidade na intenção de redigir e promover conteúdos de popularização da ciência; apoiar os veículos já existentes sobre o tema como boletins e revistas científicas. || Médio prazo || ASSUS, Editora da UFSB com o apoio da Biblioteca || Carga horária das equipes envolvidas || Publicações científicas e de popularização da ciência em relação à biodiversidade. Público alcançado
+Via comunicação interna por e-mail e demais sistemas institucionais, divulgar as ações realizadas no âmbito da biodiversidade, dentro da UFSB e nas cooperações técnicas e científicas || Curto prazo (permanente) || ASSUS, ACS, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Peças publicadas. Público alcançado
+Semestralmente, elaborar o Boletim Informativo sobre a biodiversidade da UFSB, que pode ser inserido no Boletim Informativo do JBFLORAS, de modo a compilar dados e, digitalmente, distribuir informações sobre a biota local e regional, além de divulgar as ações realizadas no período || Curto prazo (permanente) || ASSUS, com o apoio de servidoras(es) com expertise no tema || Carga horária das equipes envolvidas || Peças publicadas. Público alcançado
+Produção de Vídeo Institucional, visando gerar conteúdo em mídia diferenciada, apresentando a temática em relação a UFSB e sua área de abrangência. Será um || Curto prazo || ASSUS, ACS, com o apoio de servidoras(es) com || Carga horária das equipes envolvidas || Vídeo institucional produzido. Número de veiculações. Público alcançado
+-----
+
+########## PAGINA 183 ##########
+produto completo para veiculação tanto nas mídias institucionais quanto em eventos científicos e sociais organizados pela UFSB ||  || expertise no tema ||  || 
+Estimular e inserir as(os) servidoras(os) com expertise no tema a proporcionar as capacitações e o apoio técnico para as ações propostas neste Plano || Curto prazo (permanente) || ASSUS e Pró-Reitorias || Não se aplica || Capacitações e documentos técnicos sobre Biodiversidade nos Campi executados pelas(os) servidoras(os) da UFSB
+Criação de manual técnico, didático, lúdico e digital da biodiversidade da UFSB, com legislação pertinente e boas práticas que envolvam a conservação e preservação dos recursos naturais, visando sensibilizar a comunidade interna e externa da UFSB || Médio a longo prazo || Grupos de Pesquisa e Extensão da UFSB com o apoio da ASSUS e Pró-Reitorias || Carga horária das equipes envolvidas. Investimentos nas ações de criação do material || Peças publicadas. Público alcançado
+Elaboração e realização de cursos de curta duração e oficinas, para a formação de crianças, jovens e adultos como multiplicadores. Estas ações são possibilidades de disseminação de conhecimento para a replicação das informações, sendo importantes mecanismos a serem realizados de forma contínua e permanente || Curto a médio prazo (permanente) || Grupos de Pesquisa e Extensão da UFSB com o apoio da ASSUS, PROEX e Unidades Acadêmicas || Carga horária das equipes envolvidas. Investimentos em material de consumo para os cursos || Atividades realizadas. Público alcançado
+Elaboração e realização de cursos de curta duração e oficinas com os servidores docentes e técnicos administrativos e educacionais, visando a sensibilização para boas práticas de conservação e preservação da biota, tanto no âmbito daqueles servidores já em atividades quanto para novos servidores || Curto a médio prazo (permanente) || Grupos de Pesquisa e Extensão da UFSB com o apoio da ASSUS, PROGEPE, Unidades Acadêmicas e Coordenações de Apoio Administrativo dos Campi || Carga horária das equipes envolvidas. Investimentos em material de consumo para os cursos || Atividades realizadas. Público alcançado
+Realização de palestras sobre temáticas relacionadas à conservação da Mata Atlântica, onde se insere integralmente os Campi da UFSB, evidenciando aspectos da biodiversidade costeira || Curdo prazo (permanente) || Grupos de Pesquisa e Extensão da UFSB com o apoio da ASSUS e Unidades Acadêmicas || Carga horária das equipes envolvidas. || Atividades realizadas. Público alcançado
+-----

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel de Acompanhamento — PLS-UFSB (2022–2027)</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header>
+    <h1>Painel de Acompanhamento do PLS-UFSB</h1>
+    <p>Plano de Gestão de Logística Sustentável da UFSB · Vigência 2022–2027 · Revisão bienal</p>
+  </header>
+
+  <div class="aviso">
+    ⚠️ Os eixos <strong>Gestão de Energia Elétrica</strong> e <strong>Mobilidade de Pessoal</strong> não foram
+    contemplados na Etapa 1 do PLS — previstos para inclusão na revisão bienal.
+  </div>
+
+  <main>
+    <div id="carregando" class="carregando">Carregando dados do PLS…</div>
+
+    <div id="conteudo" style="display:none">
+      <section class="kpis" id="kpis"></section>
+
+      <section class="graficos">
+        <div class="painel"><h2>Distribuição por status</h2><canvas id="g-status"></canvas></div>
+        <div class="painel"><h2>Status por eixo temático</h2><canvas id="g-eixos"></canvas></div>
+      </section>
+
+      <section class="painel full">
+        <h2>Indicadores com metas anuais — Eixo Resíduos Sólidos</h2>
+        <canvas id="g-indicadores" height="90"></canvas>
+      </section>
+
+      <h2 style="color:var(--cinza);margin-top:28px">Ações do plano</h2>
+      <section class="filtros">
+        <select id="f-eixo"></select>
+        <select id="f-status"></select>
+        <select id="f-resp"></select>
+        <input id="f-busca" type="search" placeholder="Buscar ação, objetivo ou indicador…">
+        <span id="contagem"></span>
+      </section>
+
+      <table>
+        <thead>
+          <tr><th>Eixo</th><th>Ação</th><th>Responsável</th><th>Prazo / limite</th><th>Status</th><th>Execução</th></tr>
+        </thead>
+        <tbody id="tabela-corpo"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    Painel desenvolvido para acompanhamento do PLS-UFSB · Dados alimentados via planilha (CSV) ·
+    <a href="docs/PLS-UFSB-Etapa1.pdf">Documento oficial</a> ·
+    <a href="docs/manual-de-atualizacao.md">Como atualizar</a>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/dados.js"></script>
+  <script src="js/graficos.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
