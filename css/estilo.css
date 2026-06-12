@@ -39,6 +39,9 @@ th{background:#eceff1;color:var(--cinza);position:sticky;top:0}
 small{color:#78909c}
 footer{text-align:center;color:#90a4ae;font-size:.78rem;padding:24px}
 footer a{color:var(--azul)}
+#btn-atualizar{background:var(--azul);color:#fff;border:none;border-radius:6px;padding:5px 12px;font-size:.78rem;cursor:pointer;margin:4px 0}
+#btn-atualizar:hover{background:var(--verde2)}
+#ultima-carga{color:#607d8b}
 
 @media(max-width:860px){
   .graficos{grid-template-columns:1fr}

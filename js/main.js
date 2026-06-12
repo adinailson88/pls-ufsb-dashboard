@@ -87,16 +87,24 @@
     $("#f-busca").addEventListener("input", e => { filtros.busca = e.target.value; atualizar(); });
   }
 
+  async function recarregar() {
+    DADOS = await window.PLS_DADOS.carregarTudo();
+    renderFiltros(DADOS.acoes);
+    const agora = new Date().toLocaleString("pt-BR");
+    const fonte = /^https?:/.test(cfg.fonteAcoes) ? "planilha do Google (ao vivo)" : "CSV do repositório";
+    $("#ultima-carga").textContent = `Dados: ${fonte} · última carga: ${agora} · `;
+    atualizar();
+    window.PLS_GRAFICOS.indicadoresAnuais(DADOS.indicadores);
+  }
+
   async function iniciar() {
     try {
-      DADOS = await window.PLS_DADOS.carregarTudo();
       $("#carregando").style.display = "none";
       $("#conteudo").style.display = "block";
-      renderFiltros(DADOS.acoes);
-      ligarEventos();
       window.PLS_GRAFICOS.init();
-      atualizar();
-      window.PLS_GRAFICOS.indicadoresAnuais(DADOS.indicadores);
+      ligarEventos();
+      $("#btn-atualizar").addEventListener("click", recarregar);
+      await recarregar();
     } catch (err) {
       $("#carregando").innerHTML = `<p class="erro">Erro ao carregar dados: ${err.message || err}.<br>
         Se estiver abrindo o arquivo direto (file://), use um servidor local: <code>python -m http.server</code></p>`;

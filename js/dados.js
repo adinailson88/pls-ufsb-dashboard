@@ -3,8 +3,11 @@ window.PLS_DADOS = (function () {
   const cfg = window.PLS_CONFIG;
 
   function carregarCSV(url) {
+    // Cache-busting: ajuda a refletir mais rápido edições na planilha do Google.
+    const sep = url.includes("?") ? "&" : "?";
+    const final = url + sep + "_=" + Date.now();
     return new Promise((resolve, reject) => {
-      Papa.parse(url, {
+      Papa.parse(final, {
         download: true, header: true, skipEmptyLines: true,
         complete: (r) => resolve(r.data),
         error: reject

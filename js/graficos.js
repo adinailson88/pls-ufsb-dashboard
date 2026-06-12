@@ -54,6 +54,7 @@ window.PLS_GRAFICOS = (function () {
     const alvo = indicadores.find(i => /alcance das metas do PGGRS/i.test(i.indicador)) || indicadores[0];
     const meta = [alvo.ano1_meta, alvo.ano2_meta, alvo.ano3_meta, alvo.ano4_meta, alvo.ano5_meta].map(Number);
     const real = [alvo.ano1_real, alvo.ano2_real, alvo.ano3_real, alvo.ano4_real, alvo.ano5_real].map(v => v === "" ? null : Number(v));
+    if (gIndic) gIndic.destroy();
     gIndic = new Chart(el, {
       type: "line",
       data: { labels: anos, datasets: [
