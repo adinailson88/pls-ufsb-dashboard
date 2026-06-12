@@ -2,11 +2,16 @@
 
 ## Opção 1 — Planilha no Google Sheets (recomendada)
 
-1. Crie uma planilha "PLS-UFSB — Acompanhamento" com 3 abas: **ACOES**, **INDICADORES_ANUAIS**, **EIXOS**.
-2. Importe os arquivos `dados/*.csv` para as abas correspondentes (Arquivo → Importar).
-3. Publique cada aba: **Arquivo → Compartilhar → Publicar na web → escolha a aba → CSV → Publicar**. Copie a URL gerada.
-4. Em `js/config.js`, substitua o valor de `fonteAcoes` (e, se quiser, `fonteEixos`/`fonteIndicadores`) pela URL publicada.
-5. A partir daí, **basta editar a planilha** — o painel reflete as mudanças ao recarregar a página. Não precisa mexer no código.
+1. Use a planilha **PLS-UFSB**:
+   `https://docs.google.com/spreadsheets/d/1zZ8-ACC8T2tLM_S3xXjR-s-0kNVbemDACiOPdAA5xm8/edit`
+2. Ela deve ter 3 abas: **ACOES** (`gid=0`), **INDICADORES_ANUAIS** (`gid=101`) e **EIXOS** (`gid=102`).
+3. Importe os arquivos `dados/*.csv` para as abas correspondentes (Arquivo → Importar).
+   - `dados/acoes.csv` → aba **ACOES**
+   - `dados/indicadores_anuais.csv` → aba **INDICADORES_ANUAIS**
+   - `dados/eixos.csv` → aba **EIXOS**
+4. Publique cada aba: **Arquivo → Compartilhar → Publicar na web → escolha a aba → CSV → Publicar**.
+5. O `js/config.js` já aponta para os CSVs exportados dessa planilha.
+6. A partir daí, **basta editar a planilha** — o painel reflete as mudanças ao recarregar a página. Não precisa mexer no código.
 
 ### Quem atualiza o quê
 Cada responsável de eixo edita, na aba ACOES, apenas as colunas:
