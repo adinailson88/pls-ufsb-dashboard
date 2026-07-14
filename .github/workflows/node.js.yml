@@ -1,7 +1,4 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
-
-name: Node.js CI
+name: Validar site estatico
 
 on:
   push:
@@ -10,22 +7,46 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
-
+  validar:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [18.x, 20.x, 22.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm ci
-    - run: npm run build --if-present
-    - run: npm test
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verificar arquivos obrigatorios
+        run: |
+          test -s index.html
+          test -s css/estilo.css
+          test -s js/config.js
+          test -s js/dados.js
+          test -s js/graficos.js
+          test -s js/main.js
+          test -s dados/acoes.csv
+          test -s dados/eixos.csv
+          test -s dados/indicadores_anuais.csv
+
+      - name: Validar sintaxe JavaScript
+        run: |
+          for arquivo in js/*.js; do
+            node --check "$arquivo"
+          done
+
+      - name: Validar arquivos CSV
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          arquivos = sorted(Path("dados").glob("*.csv"))
+          if not arquivos:
+              raise SystemExit("Nenhum CSV encontrado em dados/.")
+
+          for arquivo in arquivos:
+              with arquivo.open(encoding="utf-8-sig", newline="") as entrada:
+                  linhas = list(csv.reader(entrada))
+              if len(linhas) < 2:
+                  raise SystemExit(f"CSV sem registros: {arquivo}")
+              if not any(celula.strip() for celula in linhas[0]):
+                  raise SystemExit(f"CSV sem cabecalho: {arquivo}")
+              print(f"OK {arquivo}: {len(linhas) - 1} registro(s)")
+          PY
