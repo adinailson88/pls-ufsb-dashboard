@@ -6,7 +6,7 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 
 - Referências selecionadas nesta etapa: **66**
 - Fichas com resumo já disponível: **32**
-- Fichas que ainda exigem leitura integral: **34**
+- Fichas com arquivo disponível e resumo analítico ainda não cadastrado no índice: **34**
 - Índice geral: [00_INDICE_ACERVO.xlsx](https://docs.google.com/spreadsheets/d/1hpSUv-qeEBpCTeQ0CFDROuTq8rSrmraV/edit)
 - Pasta principal do acervo: [Google Drive](https://drive.google.com/drive/folders/1cNnLTU6ENFIUX5yi6M17QO-o-kfaf5al)
 
@@ -16,12 +16,12 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 2. Leia o resumo e a indicação de uso no repositório.
 3. Antes de citar método, número ou conclusão específica, abra o PDF pelo link do Drive e confirme a informação in loco.
 4. Não trate “aderência” como qualidade metodológica; ela indica proximidade temática com o projeto.
-5. Itens marcados como leitura pendente servem apenas como candidatos até a conferência integral.
+5. Itens sem resumo analítico cadastrado possuem arquivo disponível no Drive; confirme no documento os dados específicos antes de citar.
 
 ## Plano de atualização por etapas
 
 - **Etapa 1 — concluída neste arquivo:** inventário, seleção por aderência, links diretos e incorporação dos resumos já existentes.
-- **Etapa 2:** leitura integral dos itens pendentes, processada por pasta do Drive na ordem 01 a 08.
+- **Etapa 2:** elaboração de resumos analíticos completos dos itens ainda sem síntese cadastrada, processados por pasta do Drive na ordem 01 a 08, com citações, páginas e conferência no texto original.
 - **Etapa 3:** revisão da aderência específica ao repositório e inclusão de trechos de uso recomendado, limitações e páginas relevantes.
 - **Etapa 4:** atualização contínua quando novos documentos forem adicionados ao índice do acervo.
 
@@ -35,8 +35,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** APO; ambientes escolares; manutenção; segurança
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “APO”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “APO”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1aqYZCchOFKeLs7K6FuRPtndwQ5MR7BNL/view?usp=drivesdk)
 
 ### 2. Lateef, O. A.; Khamidi, M. F.; Idrus, A. (2010) — Building Maintenance Management in Malaysian University Campuses: A Case Study
@@ -95,8 +95,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Facility management; manutenção predial; UFPE
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “FacilityManagement”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “FacilityManagement”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1hVlog7jo06UzzVlceHh-AC_kHuVbGH-0/view?usp=drivesdk)
 
 ### 7. Aldairi, J.; Khan, M. K.; Munive-Hernandez, J. E. (2017) — Knowledge-based Lean Six Sigma maintenance system for sustainable buildings
@@ -167,8 +167,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Norma técnica; facility management; sistema de gestão
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “FacilityManagement”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “FacilityManagement”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1MfNeUn4dNirTsthzWTSW59a7o_tsLUcr/view?usp=drivesdk)
 
 ### 13. Brandão, N. L. S. (2021) — Gestão da manutenção predial em Instituições Federais de Ensino do Estado de Sergipe: proposição de diretrizes
@@ -289,8 +289,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Epistemologia ambiental; interdisciplinaridade; racionalidade ambiental
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1zS9ZRaE2MXvQTccEwcHS4kqKINy-1pgR/view?usp=drivesdk)
 
 ### 2. (não identificado – PDF digitalizado) (2006) — Métodos e Técnicas de Análise Ambiental
@@ -301,8 +301,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Análise ambiental; métodos e técnicas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1njp8Q5A_bWY3jR6k_wbY6iNHTeRZz7eF/view?usp=drivesdk)
 
 ### 3. Gonçalves, T. M. (2009) — Habitação e sustentabilidade urbana
@@ -313,8 +313,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Habitação; sustentabilidade urbana; psicologia ambiental
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1gk1F7pOxoluymUAs6uz_E6l6k-0ON6GP/view?usp=drivesdk)
 
 ### 4. Souza, M. J. N. de; Oliveira, V. P. V. de (2011) — Análise ambiental – uma prática da interdisciplinaridade no ensino e na pesquisa
@@ -325,8 +325,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Análise ambiental; interdisciplinaridade; geossistemas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ambiental”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1FrWEr_rIqTOdoKaMGvlSyOxSF7mPP_n8/view?usp=drivesdk)
 
 ### 5. Ribeiro, C. A. B. C.; Fortunato, R. A.; Machado, C. C. L. (2012) — Caminhos da sustentabilidade urbana: o desafio da construção da gestão dos riscos socioambientais urbanos
@@ -337,8 +337,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Sustentabilidade urbana; riscos socioambientais; governança
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1xuSCxJBbOmdcxbyXNXwP7bB8-YNDbJSA/view?usp=drivesdk)
 
 ### 6. Ribeiro, J. A. G.; Cavassan, O. (2013) — As quatro dimensões da relação homem-meio ambiente
@@ -373,8 +373,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Escola sustentável; educação ambiental; espaços criativos
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1NBUwZTDJ78SKU5JQTg_XhNnyNTuo8bjk/view?usp=drivesdk)
 
 ### 9. Matthews, E.; Friedland, C. J.; Orooji, F. (2016) — Optimization of Sustainability and Flood Hazard Resilience for Home Designs
@@ -409,8 +409,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1vg1GnAQg4FTioplKMEO2Yt8q9vBxip4L/view?usp=drivesdk)
 
 ### 12. Vien (2024) — SDGs Higher Education
@@ -421,8 +421,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “ODS”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “ODS”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1SIjuQFKxH7B4AOQcnVF61QNrIeXZUyH8/view?usp=drivesdk)
 
 ### 13. Araújo, H. B.; Soares, P. V.; Espuny, M.; Oliveira, O. J. de (2024) — Improving water efficiency in higher education institutions: contributions from the Boa Vista Campus of the Federal Institute of Roraima
@@ -469,8 +469,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Percepção; sustentabilidade urbana; Brasil
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sustentabilidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1fntW77p-PH_J8xuJ2xyjCgm36IIjtckA/view?usp=drivesdk)
 
 ### 17. Rodrigues, J. A. M.; Cândido, L. F.; Lima, S. H. de O.; Alexandre, A. M. B. (2024) — Barreiras e vetores da adoção do reúso de água em edificações: uma análise sociotécnica no Estado do Ceará, Brasil
@@ -495,8 +495,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1tOcAtxIhkNMU6MGwDU5-_8SI-okc_AJE/view?usp=drivesdk)
 
 ### 2. Odum (1996) — Fundamentos Ecologia
@@ -507,8 +507,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/11x0sHewIweIOnL2mk17lEypdSsm05Rs5/view?usp=drivesdk)
 
 ### 3. Costanza (1997) — Value Ecosystem Services
@@ -519,8 +519,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ecossistemas”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ecossistemas”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1cMVidsV9iqrnUzhTNZzmmuUhMQOdfcv-/view?usp=drivesdk)
 
 ### 4. Capra (1997) — Teia Da Vida
@@ -531,8 +531,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Sistemas”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Sistemas”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1nRnziYaRFxgv7CfWksFcYRaAFuINjDeZ/view?usp=drivesdk)
 
 ### 5. Grimm (2000) — Urban Ecological Systems
@@ -543,8 +543,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “EcologiaUrbana”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “EcologiaUrbana”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1wwxnJrWl7ZVVp_49SNx3aXnAI-wR0ZrD/view?usp=drivesdk)
 
 ### 6. Orsini (2013) — Urban Agriculture Review
@@ -555,8 +555,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “AgriculturaUrbana”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “AgriculturaUrbana”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/19qhErVQ_JNKP_xKBNDFdFeu5r5NZA8KQ/view?usp=drivesdk)
 
 ### 7. The Angiosperm Phylogeny Group (Byng, J. W.; Chase, M. W.; e outros) (2016) — An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV
@@ -567,8 +567,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Botânica; filogenia de angiospermas; classificação
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Botanica”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Botanica”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1GXDsGGduEWFvRBl_qvVAC3BKf6C2ZgKJ/view?usp=drivesdk)
 
 ### 8. Driscoll (2018) — Crise Diversidade
@@ -579,8 +579,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Biodiversidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Biodiversidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1Np4el5NGwS1QrwZUPxDNTXcrBsOJczLK/view?usp=drivesdk)
 
 ### 9. Heleno (2020) — Rede Interacoes Ecologicas
@@ -591,8 +591,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ecologia”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1NQG3O34ty2Uex6d-uwuzVQOekBE39m6y/view?usp=drivesdk)
 
 ### 10. Pereira, J. H. de S.; Costa, S. K. (2021) — Ocupação urbana, eco habitação e interação ecossistêmica: articulação conceitual sob o viés do ecossistema urbano
@@ -615,8 +615,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “AgriculturaUrbana”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “AgriculturaUrbana”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1d01r7SU1HL6T_2k3Ah7DieWHZZGEDCCV/view?usp=drivesdk)
 
 ### 12. Pereira, J. H. de S.; Costa, S. K. (2022) — Análise da interação ecossistêmica em ecovilas localizadas no eixo Uruçuca-Itacaré, Estado da Bahia
@@ -639,8 +639,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Relação humano-natureza; gestão de ecossistemas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Ecossistemas”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Ecossistemas”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/15_jgOMiLlIbnPQmMeHy6rcquK9Oq3TXt/view?usp=drivesdk)
 
 ### 14. Farias (2024) — Erythrina Compensado Sem Formaldeido
@@ -651,8 +651,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Materiais”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Materiais”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1rzdx8WGbf8bPOrDZcSXxbsAnnGXRT_FN/view?usp=drivesdk)
 
 ### 15. Silva, L. E. S. da; Costa, S. K. (2024) — Produção artesanal do adobe e composição orçamentária no eixo Itabuna-Ilhéus-Uruçuca, Bahia
@@ -675,8 +675,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Biossistemas”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Biossistemas”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1NS4YKwpTek_X11KS3I8Hbc-MeDsobpmA/view?usp=drivesdk)
 
 ### 17. Gonçalves, S. C.; Silva Junior, M. F. da; Souza, M. T.; Amorim Júnior, N. S. de; Ribeiro, D. V. (2025) — Physicomechanical Properties of Recycled Gypsum Composites with Polyvinyl Acetate Emulsion and Treated Short Green Coconut Fibers
@@ -711,8 +711,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Soluções baseadas na natureza; drenagem urbana; modos de falha; manutenção
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “SolucoesNatureza”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “SolucoesNatureza”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1NlYCbxjptNi_Sa9HXYvk9oLFdWpQa7Af/view?usp=drivesdk)
 
 ## 07_Contexto_Universitario_e_Urbano
@@ -725,8 +725,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Habitação de interesse social; sustentabilidade; MCMV
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Habitacao”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Habitacao”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1TrS12gb_hwYOqbceC3NpBfSxWYpn6s7t/view?usp=drivesdk)
 
 ### 2. Denez (2016) — Dilemas Universidades Multicampi
@@ -737,8 +737,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** não registradas
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Multicampi”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Multicampi”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1pNF8b26izcfJykbd0V5RSD1OJf0zyWkV/view?usp=drivesdk)
 
 ### 3. Macke, J.; Casagrande, R. M.; Sarate, J. A. R.; Silva, K. A. (2018) — Smart City and Quality of Life: citizens' perception in a Brazilian case study
@@ -749,8 +749,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Smart city; qualidade de vida; percepção
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “SmartCity”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “SmartCity”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1EAYK_AkXNytvDm1llSSIvbILjiDwj3qO/view?usp=drivesdk)
 
 ### 4. Curi Filho, W. R. (2018) — Impacto da universidade na comunidade: um estudo de caso em uma instituição pública brasileira
@@ -761,8 +761,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Universidade; impacto na comunidade; estudo de caso
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Universidade”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Universidade”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1hwghWKzLBoKnWGUl55z-ya1kpnm9DBnO/view?usp=drivesdk)
 
 ### 5. Faganello, A. M. P. (2019) — Estudo sistêmico das inter-relações dos construtos que influenciam a satisfação residencial (modelo a partir da percepção cognitiva do indivíduo)
@@ -773,8 +773,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Satisfação residencial; construtos; modelo sistêmico
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “SatisfacaoResidencial”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “SatisfacaoResidencial”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1mY03B3tqUjQt1Y23Qf6o9LccAEktkEVi/view?usp=drivesdk)
 
 ### 6. Calderari, E. S.; Felipe, J. P. (orgs.) (2021) — Novos Campi Universitários Brasileiros: Processos e Impactos – Volume 1
@@ -785,8 +785,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Campi universitários; expansão universitária
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Campi”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Campi”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1ORhe8uRCMUcCf-bycjRyOzDqlrsaaa4E/view?usp=drivesdk)
 
 ### 7. Araujo, C. I. P. da R. de; Machado, G. A.; Silva, L. S. da; Oliveira, A. da S.; Macke, J. (2023) — Smart city como promotora de qualidade de vida, atividade física e saúde: análise da cidade que acolhe a COP 30 – Belém
@@ -797,8 +797,8 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Smart city; qualidade de vida; Belém
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “SmartCity”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “SmartCity”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1bVwndpWZruRbK22ZympEFpWompkfdMSd/view?usp=drivesdk)
 
 ### 8. Alici, N. (2026) — IoT-enabled indoor environments in smart cities: a systematic review on energy efficiency, user comfort, and environmental sustainability
@@ -821,7 +821,7 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 - **Aderência geral registrada:** a avaliar
 - **Palavras-chave:** Campi universitários; expansão universitária
 - **Como pode fundamentar este repositório:** Pode fundamentar indicadores, sustentabilidade institucional, ODS/ESG e decisões multicritério no ambiente universitário.
-- **Resumo:** O índice atual identifica a obra pelo título e pelo tema “Campi”, mas ainda não contém síntese validada do conteúdo. Consulte o documento no Drive antes de atribuir método, resultados ou conclusões.
-- **Situação da ficha:** Leitura integral pendente; não usar como evidência específica sem conferir o PDF.
+- **Resumo:** O arquivo completo está disponível no Google Drive. O índice identifica a obra pelo título e pelo tema “Campi”, mas ainda não contém um resumo analítico completo cadastrado. A síntese detalhada, com citações e páginas, será produzida na próxima etapa; até lá, confirme no documento qualquer método, resultado, número ou conclusão.
+- **Situação da ficha:** Arquivo completo disponível no Drive; resumo analítico completo ainda não cadastrado no índice.
 - **Acesso:** [Abrir o arquivo no Google Drive](https://drive.google.com/file/d/1AgkHMzQYdZb1hAAklTgTd3OGdZMyQKN5/view?usp=drivesdk)
 
