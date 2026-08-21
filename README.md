@@ -1,8 +1,10 @@
 # Painel de Acompanhamento do PLS-UFSB (2022–2027)
 
-Dashboard interativo para monitorar a execução do **Plano de Gestão de Logística Sustentável da Universidade Federal do Sul da Bahia (PLS-UFSB)**, conforme Decreto 7.746/2012 e IN MPOG 10/2012.
+Dashboard interativo para monitorar a execução do **Plano de Gestão de Logística Sustentável da Universidade Federal do Sul da Bahia (PLS-UFSB, 2022–2027)**.
 
-🔗 **Painel publicado:** `https://<usuario>.github.io/pls-ufsb-dashboard/` (após ativar GitHub Pages)
+O plano monitorado foi elaborado com base no Decreto nº 7.746/2012 e na Instrução Normativa SLTI/MPOG nº 10/2012, vigentes à época de sua formulação (o próprio documento do PLS-UFSB declara ter seguido "as orientações constantes na IN 10/2012... de que trata o Art. 16, do Decreto Nº 7.746, de 5 de junho de 2012"). Para elaboração, revisão e adequação de PLS no âmbito federal hoje, aplicam-se a Portaria SEGES/ME nº 8.678/2021 e a Portaria SEGES/MGI nº 5.376/2023, que instituiu o Caderno de Logística do Plano Diretor de Logística Sustentável como modelo de referência (ver [Referências normativas](#referências-normativas)).
+
+🔗 **Painel publicado:** <https://adinailson88.github.io/pls-ufsb-dashboard/>
 
 ## O que ele mostra
 
@@ -62,6 +64,12 @@ Os responsáveis de cada eixo alteram apenas: `status`, `percentual_execucao`, `
 ## Origem dos dados
 
 As 186 ações e os indicadores anuais foram **extraídos automaticamente** das tabelas dos planos de ação do PLS-UFSB (Etapa 1, versão CONSUNI). Recomenda-se revisão manual contra o PDF oficial antes da operação (conferir responsáveis, metas e prazos por eixo).
+
+## Referências normativas
+
+- [Portaria SEGES/ME nº 8.678, de 19 de julho de 2021](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-me-no-8-678-de-19-de-julho-de-2021) — governança das contratações públicas; define o Plano Diretor de Logística Sustentável (PLS) como instrumento de governança.
+- [Portaria SEGES/MGI nº 5.376, de 14 de setembro de 2023](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-mgi-no-5376-de-14-de-setembro-de-2023) — institui o Caderno de Logística do PLS como modelo de referência atual para a Administração Pública Federal.
+- [Instrução Normativa SLTI/MPOG nº 10, de 12 de novembro de 2012](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-10-de-12-de-novembro-de-2012) — referência histórica: base normativa sob a qual o PLS-UFSB 2022–2027 foi originalmente elaborado (Decreto nº 7.746/2012, Art. 16).
 
 ## Licença
 
